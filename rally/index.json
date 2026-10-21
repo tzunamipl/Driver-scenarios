@@ -1,7 +1,8 @@
 {
   "format": 1,
   "stages": [
-    "patelnie-up-01"
+    "patelnie-up-01",
+    "test"
   ],
   "rallies": []
 }
