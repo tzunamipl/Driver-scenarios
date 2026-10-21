@@ -1,5 +1,7 @@
 {
   "format": 1,
-  "stages": [],
+  "stages": [
+    "patelnie-up-01"
+  ],
   "rallies": []
 }

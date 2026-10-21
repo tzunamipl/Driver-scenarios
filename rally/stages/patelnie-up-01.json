@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "id": "patelnie-up-01",
+  "name": "Patelnie Walimskie UP",
+  "points": [
+    {
+      "type": "timeControl",
+      "lat": 50.697652,
+      "lon": 16.459144,
+      "width": 13
+    },
+    {
+      "type": "start",
+      "lat": 50.697475,
+      "lon": 16.460547,
+      "width": 13
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.697283,
+      "lon": 16.461,
+      "width": 13
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.697126,
+      "lon": 16.460446,
+      "width": 13
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.695331,
+      "lon": 16.466574,
+      "width": 13
+    },
+    {
+      "type": "split",
+      "lat": 50.697141,
+      "lon": 16.464529,
+      "width": 13
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.698995,
+      "lon": 16.459609,
+      "width": 13
+    },
+    {
+      "type": "split",
+      "lat": 50.702376,
+      "lon": 16.462415,
+      "width": 13
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.703371,
+      "lon": 16.464247,
+      "width": 13
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.699824,
+      "lon": 16.465101,
+      "width": 13
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.697802,
+      "lon": 16.472547,
+      "width": 13
+    },
+    {
+      "type": "finish",
+      "lat": 50.697053,
+      "lon": 16.474784,
+      "width": 13
+    },
+    {
+      "type": "stop",
+      "lat": 50.696751,
+      "lon": 16.476242,
+      "width": 13
+    }
+  ]
+}
