@@ -1,0 +1,111 @@
+{
+  "format": 2,
+  "country": "poland",
+  "region": "walim",
+  "id": "wiejska-down-03",
+  "name": "Walim Wiejska Down",
+  "points": [
+    {
+      "type": "timeControl",
+      "lat": 50.714194,
+      "lon": 16.459601,
+      "width": 3
+    },
+    {
+      "type": "start",
+      "lat": 50.713893,
+      "lon": 16.459349,
+      "width": 3
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.712895,
+      "lon": 16.458689,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.712068,
+      "lon": 16.455587,
+      "width": 10
+    },
+    {
+      "type": "split",
+      "lat": 50.708454,
+      "lon": 16.452865,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.708419,
+      "lon": 16.452262,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.708551,
+      "lon": 16.450252,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.708863,
+      "lon": 16.448973,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.708544,
+      "lon": 16.447625,
+      "width": 10
+    },
+    {
+      "type": "split",
+      "lat": 50.705184,
+      "lon": 16.447573,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.703876,
+      "lon": 16.447438,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.70347,
+      "lon": 16.446113,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.703147,
+      "lon": 16.447255,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.70192,
+      "lon": 16.444153,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.699407,
+      "lon": 16.442799,
+      "width": 10
+    },
+    {
+      "type": "finish",
+      "lat": 50.698566,
+      "lon": 16.442443,
+      "width": 10
+    },
+    {
+      "type": "stop",
+      "lat": 50.698342,
+      "lon": 16.441832,
+      "width": 3
+    }
+  ]
+}
