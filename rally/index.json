@@ -2,6 +2,7 @@
   "format": 2,
   "stages": [
     "patelnie-up-01",
+    "poland/walim/patelnie-up-01",
     "test",
     "test/piastowrally2026/kolodzieja-01",
     "test/piastowrally2026/sprawiedliwego-01"
