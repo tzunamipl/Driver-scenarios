@@ -9,13 +9,13 @@
       "type": "timeControl",
       "lat": 51.647237,
       "lon": 16.106179,
-      "width": 4
+      "width": 3
     },
     {
       "type": "start",
       "lat": 51.64745,
       "lon": 16.106216,
-      "width": 4
+      "width": 3
     },
     {
       "type": "passageControl",
@@ -57,7 +57,7 @@
       "type": "stop",
       "lat": 51.651982,
       "lon": 16.106057,
-      "width": 4
+      "width": 3
     }
   ]
 }
