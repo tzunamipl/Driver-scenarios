@@ -1,0 +1,63 @@
+{
+  "format": 2,
+  "country": "test",
+  "region": "piastowrally2026",
+  "id": "sprawiedliwego-01",
+  "name": "Sprawiedliwego",
+  "points": [
+    {
+      "type": "timeControl",
+      "lat": 51.647237,
+      "lon": 16.106179,
+      "width": 3
+    },
+    {
+      "type": "start",
+      "lat": 51.64745,
+      "lon": 16.106216,
+      "width": 3
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.648389,
+      "lon": 16.106506,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.6489,
+      "lon": 16.107552,
+      "width": 10
+    },
+    {
+      "type": "split",
+      "lat": 51.64885,
+      "lon": 16.109089,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.64913,
+      "lon": 16.110225,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.651407,
+      "lon": 16.107386,
+      "width": 10
+    },
+    {
+      "type": "finish",
+      "lat": 51.651783,
+      "lon": 16.106532,
+      "width": 10
+    },
+    {
+      "type": "stop",
+      "lat": 51.651982,
+      "lon": 16.106057,
+      "width": 3
+    }
+  ]
+}

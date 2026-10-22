@@ -1,0 +1,93 @@
+{
+  "format": 2,
+  "country": "test",
+  "region": "piastowrally2026",
+  "id": "kolodzieja-01",
+  "name": "Kolodzieja",
+  "points": [
+    {
+      "type": "timeControl",
+      "lat": 51.652949,
+      "lon": 16.112314,
+      "width": 3
+    },
+    {
+      "type": "start",
+      "lat": 51.652762,
+      "lon": 16.112217,
+      "width": 3
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.652539,
+      "lon": 16.111858,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.652684,
+      "lon": 16.111047,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.651778,
+      "lon": 16.110671,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.651255,
+      "lon": 16.112132,
+      "width": 10
+    },
+    {
+      "type": "split",
+      "lat": 51.650485,
+      "lon": 16.111555,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.649711,
+      "lon": 16.11105,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.649307,
+      "lon": 16.111001,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.648908,
+      "lon": 16.110524,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.648075,
+      "lon": 16.11076,
+      "width": 10
+    },
+    {
+      "type": "split",
+      "lat": 51.648124,
+      "lon": 16.112663,
+      "width": 10
+    },
+    {
+      "type": "finish",
+      "lat": 51.646534,
+      "lon": 16.112819,
+      "width": 10
+    },
+    {
+      "type": "stop",
+      "lat": 51.646503,
+      "lon": 16.112483,
+      "width": 3
+    }
+  ]
+}
