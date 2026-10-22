@@ -17,16 +17,34 @@
       "width": 10
     },
     {
+      "type": "tyreFitting",
+      "lat": 51.646435,
+      "lon": 16.105462,
+      "width": 10
+    },
+    {
+      "type": "serviceParkOut",
+      "lat": 51.646974,
+      "lon": 16.105026,
+      "width": 10
+    },
+    {
       "stage": "test/piastowrally2026/sprawiedliwego-01"
     },
     {
       "type": "regroup",
-      "lat": 51.647044,
-      "lon": 16.106192,
+      "lat": 51.653055,
+      "lon": 16.108618,
       "width": 10
     },
     {
       "stage": "test/piastowrally2026/kolodzieja-01"
+    },
+    {
+      "type": "serviceParkIn",
+      "lat": 51.646713,
+      "lon": 16.107301,
+      "width": 10
     },
     {
       "type": "podium",
