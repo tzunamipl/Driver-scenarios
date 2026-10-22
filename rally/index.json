@@ -1,11 +1,9 @@
 {
   "format": 2,
   "stages": [
-    "patelnie-up-01",
     "poland/walim/modlecin-down-02",
     "poland/walim/patelnie-up-01",
     "poland/walim/wiejska-down-03",
-    "test",
     "test/piastowrally2026/kolodzieja-01",
     "test/piastowrally2026/sprawiedliwego-01",
     "test/test/test"
