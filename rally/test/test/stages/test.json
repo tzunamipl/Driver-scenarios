@@ -1,0 +1,57 @@
+{
+  "format": 2,
+  "country": "test",
+  "region": "test",
+  "id": "test",
+  "name": "test",
+  "points": [
+    {
+      "type": "timeControl",
+      "lat": 51.648018,
+      "lon": 16.084257,
+      "width": 3
+    },
+    {
+      "type": "start",
+      "lat": 51.647947,
+      "lon": 16.085081,
+      "width": 3
+    },
+    {
+      "type": "split",
+      "lat": 51.647918,
+      "lon": 16.085421,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.647899,
+      "lon": 16.085642,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.647885,
+      "lon": 16.085808,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.647878,
+      "lon": 16.085895,
+      "width": 10
+    },
+    {
+      "type": "finish",
+      "lat": 51.647856,
+      "lon": 16.086147,
+      "width": 10
+    },
+    {
+      "type": "stop",
+      "lat": 51.647801,
+      "lon": 16.086798,
+      "width": 3
+    }
+  ]
+}
