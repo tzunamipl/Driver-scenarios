@@ -9,7 +9,7 @@
       "type": "timeControl",
       "lat": 51.652949,
       "lon": 16.112314,
-      "width": 10
+      "width": 4
     },
     {
       "type": "start",
@@ -93,7 +93,7 @@
       "type": "stop",
       "lat": 51.646503,
       "lon": 16.112483,
-      "width": 10
+      "width": 4
     }
   ]
 }
