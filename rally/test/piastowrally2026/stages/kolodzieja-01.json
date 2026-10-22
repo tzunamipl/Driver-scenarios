@@ -67,20 +67,14 @@
     },
     {
       "type": "passageControl",
-      "lat": 51.648207,
-      "lon": 16.110566,
+      "lat": 51.648075,
+      "lon": 16.11076,
       "width": 10
     },
     {
       "type": "split",
       "lat": 51.648124,
       "lon": 16.112663,
-      "width": 10
-    },
-    {
-      "type": "passageControl",
-      "lat": 51.646553,
-      "lon": 16.11295,
       "width": 10
     },
     {
