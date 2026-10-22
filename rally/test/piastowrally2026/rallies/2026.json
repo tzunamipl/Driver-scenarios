@@ -1,0 +1,44 @@
+{
+  "format": 2,
+  "country": "test",
+  "region": "piastowrally2026",
+  "id": "2026",
+  "name": "Piastow Rally 2026",
+  "base": {
+    "name": "",
+    "lat": 51.646712,
+    "lon": 16.105346
+  },
+  "itinerary": [
+    {
+      "type": "refuel",
+      "lat": 51.646582,
+      "lon": 16.105832,
+      "width": 10
+    },
+    {
+      "type": "tyreFitting",
+      "lat": 51.646419,
+      "lon": 16.105614,
+      "width": 10
+    },
+    {
+      "stage": "test/piastowrally2026/kolodzieja-01"
+    },
+    {
+      "type": "regroup",
+      "lat": 51.647044,
+      "lon": 16.106192,
+      "width": 10
+    },
+    {
+      "stage": "test/piastowrally2026/sprawiedliwego-01"
+    },
+    {
+      "type": "podium",
+      "lat": 51.646672,
+      "lon": 16.104986,
+      "width": 10
+    }
+  ]
+}
