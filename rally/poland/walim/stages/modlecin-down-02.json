@@ -1,0 +1,123 @@
+{
+  "format": 2,
+  "country": "poland",
+  "region": "walim",
+  "id": "modlecin-down-02",
+  "name": "Modlecin Down",
+  "points": [
+    {
+      "type": "timeControl",
+      "lat": 50.697411,
+      "lon": 16.490848,
+      "width": 3
+    },
+    {
+      "type": "start",
+      "lat": 50.697989,
+      "lon": 16.490419,
+      "width": 3
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.699853,
+      "lon": 16.489162,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.701347,
+      "lon": 16.486694,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.702026,
+      "lon": 16.485607,
+      "width": 10
+    },
+    {
+      "type": "split",
+      "lat": 50.703391,
+      "lon": 16.48089,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.704396,
+      "lon": 16.479046,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.705542,
+      "lon": 16.478131,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.707198,
+      "lon": 16.477912,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.707761,
+      "lon": 16.477703,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.710107,
+      "lon": 16.477765,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.711896,
+      "lon": 16.476704,
+      "width": 10
+    },
+    {
+      "type": "split",
+      "lat": 50.714489,
+      "lon": 16.476837,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.714738,
+      "lon": 16.47684,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.716664,
+      "lon": 16.476326,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.717753,
+      "lon": 16.475064,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 50.717943,
+      "lon": 16.474516,
+      "width": 10
+    },
+    {
+      "type": "finish",
+      "lat": 50.718802,
+      "lon": 16.473734,
+      "width": 10
+    },
+    {
+      "type": "stop",
+      "lat": 50.719404,
+      "lon": 16.472947,
+      "width": 3
+    }
+  ]
+}
