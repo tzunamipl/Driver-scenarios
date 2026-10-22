@@ -12,20 +12,24 @@
   "itinerary": [
     {
       "type": "refuel",
-      "lat": 50.696914,
-      "lon": 16.441271,
-      "width": 4
+      "lat": 50.69667,
+      "lon": 16.441843,
+      "width": 4,
+      "heading": 245,
+      "snap": false
     },
     {
       "type": "tyreFitting",
-      "lat": 50.697009,
-      "lon": 16.441312,
-      "width": 4
+      "lat": 50.696896,
+      "lon": 16.441552,
+      "width": 4,
+      "heading": 343.5,
+      "snap": false
     },
     {
       "type": "serviceParkOut",
-      "lat": 50.697103,
-      "lon": 16.441492,
+      "lat": 50.697214,
+      "lon": 16.441352,
       "width": 4
     },
     {
