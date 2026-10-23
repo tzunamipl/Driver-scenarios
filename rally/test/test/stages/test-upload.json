@@ -1,0 +1,51 @@
+{
+  "format": 2,
+  "country": "test",
+  "region": "test",
+  "id": "test-upload",
+  "name": "test-upload",
+  "points": [
+    {
+      "type": "timeControl",
+      "lat": 51.048933,
+      "lon": 16.951602,
+      "width": 3
+    },
+    {
+      "type": "start",
+      "lat": 51.048809,
+      "lon": 16.951076,
+      "width": 3
+    },
+    {
+      "type": "split",
+      "lat": 51.048749,
+      "lon": 16.950824,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.048701,
+      "lon": 16.950618,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.048669,
+      "lon": 16.950484,
+      "width": 10
+    },
+    {
+      "type": "finish",
+      "lat": 51.048593,
+      "lon": 16.950162,
+      "width": 10
+    },
+    {
+      "type": "stop",
+      "lat": 51.048518,
+      "lon": 16.949848,
+      "width": 3
+    }
+  ]
+}
