@@ -1,0 +1,119 @@
+{
+  "format": 3,
+  "country": "france",
+  "region": "monts-dome",
+  "id": "2026",
+  "name": "RAllye National des Monts Dome 2026",
+  "base": {
+    "name": "",
+    "lat": 45.84939,
+    "lon": 3.539821
+  },
+  "itinerary": [
+    {
+      "type": "tyreFitting",
+      "id": "tyres",
+      "lat": 45.849796,
+      "lon": 3.53998,
+      "width": 4
+    },
+    {
+      "type": "serviceParkOut",
+      "id": "sp-out",
+      "lat": 45.849955,
+      "lon": 3.53952,
+      "width": 4
+    },
+    {
+      "stage": "france/monts-dome/olmet"
+    },
+    {
+      "stage": "france/monts-dome/montimiot"
+    },
+    {
+      "type": "remoteService",
+      "id": "rsz",
+      "lat": 45.786937,
+      "lon": 3.604201,
+      "width": 10
+    },
+    {
+      "stage": "france/monts-dome/03-membrun"
+    },
+    {
+      "type": "serviceParkIn",
+      "id": "sp-in",
+      "lat": 45.848887,
+      "lon": 3.539359,
+      "width": 4
+    },
+    {
+      "type": "service",
+      "id": "service",
+      "lat": 45.849152,
+      "lon": 3.540039,
+      "width": 4
+    },
+    {
+      "type": "refuel",
+      "id": "fuel",
+      "lat": 45.849503,
+      "lon": 3.540008,
+      "width": 4
+    },
+    {
+      "point": "tyres"
+    },
+    {
+      "point": "sp-out"
+    },
+    {
+      "stage": "france/monts-dome/olmet"
+    },
+    {
+      "stage": "france/monts-dome/montimiot"
+    },
+    {
+      "point": "rsz"
+    },
+    {
+      "stage": "france/monts-dome/03-membrun"
+    },
+    {
+      "point": "sp-in"
+    },
+    {
+      "point": "service"
+    },
+    {
+      "point": "fuel"
+    },
+    {
+      "point": "tyres"
+    },
+    {
+      "point": "sp-out"
+    },
+    {
+      "stage": "france/monts-dome/olmet"
+    },
+    {
+      "stage": "france/monts-dome/montimiot"
+    },
+    {
+      "point": "rsz"
+    },
+    {
+      "stage": "france/monts-dome/03-membrun"
+    },
+    {
+      "point": "sp-in"
+    },
+    {
+      "type": "podium",
+      "lat": 45.850154,
+      "lon": 3.540227,
+      "width": 10
+    }
+  ]
+}
