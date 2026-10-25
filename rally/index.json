@@ -1,6 +1,9 @@
 {
-  "format": 2,
+  "format": 3,
   "stages": [
+    "france/monts-dome/03-membrun",
+    "france/monts-dome/montimiot",
+    "france/monts-dome/olmet",
     "poland/walim/modlecin-down-02",
     "poland/walim/patelnie-up-01",
     "poland/walim/wiejska-down-03",
@@ -10,6 +13,7 @@
     "test/test/test-upload"
   ],
   "rallies": [
+    "france/monts-dome/2026",
     "poland/walim/walim-2026",
     "test/piastowrally2026/2026"
   ]

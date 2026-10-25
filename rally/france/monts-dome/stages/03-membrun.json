@@ -1,0 +1,424 @@
+{
+  "format": 3,
+  "country": "france",
+  "region": "monts-dome",
+  "id": "03-membrun",
+  "name": "03 Chaize Basse - Membrun",
+  "points": [
+    {
+      "type": "timeControl",
+      "lat": 45.800494,
+      "lon": 3.60799,
+      "width": 3
+    },
+    {
+      "type": "start",
+      "lat": 45.800357,
+      "lon": 3.607422,
+      "width": 3
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.801813,
+      "lon": 3.607396,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.804473,
+      "lon": 3.607177,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.805219,
+      "lon": 3.607097,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.80972,
+      "lon": 3.610025,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.811205,
+      "lon": 3.611079,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.814238,
+      "lon": 3.614995,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.814328,
+      "lon": 3.61468,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.813474,
+      "lon": 3.612736,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.814711,
+      "lon": 3.608866,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.815677,
+      "lon": 3.608042,
+      "width": 10
+    },
+    {
+      "type": "split",
+      "lat": 45.815891,
+      "lon": 3.608227,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.81909,
+      "lon": 3.610317,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.821464,
+      "lon": 3.612316,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.821611,
+      "lon": 3.61213,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.822306,
+      "lon": 3.609913,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.822927,
+      "lon": 3.606865,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.823269,
+      "lon": 3.605194,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.826511,
+      "lon": 3.602887,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.828134,
+      "lon": 3.602481,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.827502,
+      "lon": 3.599567,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.827746,
+      "lon": 3.598641,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.824213,
+      "lon": 3.59862,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.823887,
+      "lon": 3.597989,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.822983,
+      "lon": 3.597,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.821603,
+      "lon": 3.595826,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.822377,
+      "lon": 3.592743,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.8218,
+      "lon": 3.590684,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.824762,
+      "lon": 3.588076,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.824855,
+      "lon": 3.583938,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.825974,
+      "lon": 3.581989,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.82727,
+      "lon": 3.58018,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.829246,
+      "lon": 3.579465,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.835058,
+      "lon": 3.580304,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.83534,
+      "lon": 3.576258,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.835334,
+      "lon": 3.569653,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.836129,
+      "lon": 3.567365,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.837969,
+      "lon": 3.56638,
+      "width": 10
+    },
+    {
+      "type": "split",
+      "lat": 45.838326,
+      "lon": 3.56638,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.839595,
+      "lon": 3.570438,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.840177,
+      "lon": 3.572003,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.840596,
+      "lon": 3.572365,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.84433,
+      "lon": 3.57465,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.845939,
+      "lon": 3.573667,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.846629,
+      "lon": 3.573514,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.850163,
+      "lon": 3.574761,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.852285,
+      "lon": 3.576424,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.853261,
+      "lon": 3.578335,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.849178,
+      "lon": 3.582905,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.84796,
+      "lon": 3.584924,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.848426,
+      "lon": 3.58574,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.848201,
+      "lon": 3.58667,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.849879,
+      "lon": 3.587267,
+      "width": 10
+    },
+    {
+      "type": "finish",
+      "lat": 45.850587,
+      "lon": 3.586752,
+      "width": 10
+    },
+    {
+      "type": "stop",
+      "lat": 45.851632,
+      "lon": 3.586672,
+      "width": 3
+    }
+  ],
+  "objects": [
+    {
+      "type": "tape",
+      "lat": 45.805172,
+      "lon": 3.607012,
+      "heading": 108,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.814451,
+      "lon": 3.615216,
+      "heading": 30.6,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.815836,
+      "lon": 3.607587,
+      "heading": 284.9,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.821627,
+      "lon": 3.612527,
+      "heading": 54.9,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.823161,
+      "lon": 3.597278,
+      "heading": 324,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.829173,
+      "lon": 3.579772,
+      "heading": 8.5,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.838159,
+      "lon": 3.566051,
+      "heading": 277.7,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.845804,
+      "lon": 3.573828,
+      "heading": 239,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.846063,
+      "lon": 3.573424,
+      "heading": 241.1,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.846055,
+      "lon": 3.573699,
+      "heading": 242.8,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.846505,
+      "lon": 3.57334,
+      "heading": 311.6,
+      "length": 12
+    }
+  ]
+}
