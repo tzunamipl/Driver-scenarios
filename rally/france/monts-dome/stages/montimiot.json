@@ -1,0 +1,247 @@
+{
+  "format": 3,
+  "country": "france",
+  "region": "monts-dome",
+  "id": "montimiot",
+  "name": "02 Chassonerie - Montmiot",
+  "points": [
+    {
+      "type": "timeControl",
+      "lat": 45.739957,
+      "lon": 3.631744,
+      "width": 3
+    },
+    {
+      "type": "start",
+      "lat": 45.740888,
+      "lon": 3.631249,
+      "width": 3
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.746305,
+      "lon": 3.632166,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.747142,
+      "lon": 3.628287,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.748121,
+      "lon": 3.627344,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.752251,
+      "lon": 3.625042,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.753166,
+      "lon": 3.624348,
+      "width": 10
+    },
+    {
+      "type": "split",
+      "lat": 45.75312,
+      "lon": 3.624085,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.750903,
+      "lon": 3.625056,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.747361,
+      "lon": 3.62426,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.747763,
+      "lon": 3.622649,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.749674,
+      "lon": 3.622694,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.750847,
+      "lon": 3.620225,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.752191,
+      "lon": 3.61994,
+      "width": 10
+    },
+    {
+      "type": "split",
+      "lat": 45.755214,
+      "lon": 3.619375,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.756838,
+      "lon": 3.619574,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.75882,
+      "lon": 3.624271,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.758654,
+      "lon": 3.629988,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.760015,
+      "lon": 3.633154,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.765586,
+      "lon": 3.632351,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.766672,
+      "lon": 3.634895,
+      "width": 10
+    },
+    {
+      "type": "split",
+      "lat": 45.766857,
+      "lon": 3.635089,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.767975,
+      "lon": 3.63484,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.766619,
+      "lon": 3.627061,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.769768,
+      "lon": 3.625547,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.773191,
+      "lon": 3.614086,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.776326,
+      "lon": 3.616179,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 45.776661,
+      "lon": 3.615718,
+      "width": 10
+    },
+    {
+      "type": "finish",
+      "lat": 45.776915,
+      "lon": 3.608238,
+      "width": 10
+    },
+    {
+      "type": "stop",
+      "lat": 45.777723,
+      "lon": 3.607589,
+      "width": 3
+    }
+  ],
+  "objects": [
+    {
+      "type": "tape",
+      "lat": 45.753372,
+      "lon": 3.624205,
+      "heading": 31.3,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.747632,
+      "lon": 3.622747,
+      "heading": 232.7,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.752008,
+      "lon": 3.619848,
+      "heading": 271,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.766682,
+      "lon": 3.635225,
+      "heading": 84,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.766587,
+      "lon": 3.635078,
+      "heading": 177.3,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.772989,
+      "lon": 3.614173,
+      "heading": 77.9,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.772774,
+      "lon": 3.613983,
+      "heading": 230,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 45.776744,
+      "lon": 3.615957,
+      "heading": 43.8,
+      "length": 12
+    }
+  ]
+}
