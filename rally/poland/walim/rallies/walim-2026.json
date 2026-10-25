@@ -1,5 +1,5 @@
 {
-  "format": 2,
+  "format": 3,
   "country": "poland",
   "region": "walim",
   "id": "walim-2026",
@@ -10,6 +10,13 @@
     "lon": 16.441578
   },
   "itinerary": [
+    {
+      "type": "service",
+      "lat": 50.69674,
+      "lon": 16.44202,
+      "width": 4,
+      "snap": false
+    },
     {
       "type": "refuel",
       "lat": 50.69667,
@@ -49,8 +56,8 @@
     },
     {
       "type": "podium",
-      "lat": 50.696876,
-      "lon": 16.442006,
+      "lat": 50.69726,
+      "lon": 16.441916,
       "width": 10
     }
   ]
