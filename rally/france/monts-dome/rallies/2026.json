@@ -4,7 +4,7 @@
   "region": "monts-dome",
   "id": "2026",
   "name": "RAllye National des Monts Dome 2026",
-  "startTime": "09:00",
+  "startTime": "13:00",
   "base": {
     "name": "",
     "lat": 45.84939,
@@ -70,7 +70,8 @@
       "id": "parc",
       "lat": 45.849032,
       "lon": 3.539693,
-      "width": 10
+      "width": 10,
+      "nextStart": "09:00"
     },
     {
       "point": "sp-out"
