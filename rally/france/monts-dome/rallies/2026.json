@@ -98,7 +98,8 @@
       "point": "fuel"
     },
     {
-      "point": "parc"
+      "point": "parc",
+      "nextStart": "05:00"
     },
     {
       "point": "tyres"
