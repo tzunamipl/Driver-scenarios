@@ -4,6 +4,12 @@
   "region": "walim",
   "id": "modlecin-down-02",
   "name": "02 Modlecin",
+  "meta": {
+    "editedBy": "Kanalizer",
+    "editedAt": "2026-10-29T18:07:53.242Z",
+    "version": "0.7.43",
+    "build": "26.10.29-17.41"
+  },
   "points": [
     {
       "type": "timeControl",
@@ -130,6 +136,7 @@
         "len": 36,
         "dir": "L",
         "grade": 6,
+        "descent": 13,
         "show": {
           "lat": 50.697989,
           "lon": 16.490419,
