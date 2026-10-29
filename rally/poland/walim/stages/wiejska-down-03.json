@@ -4,6 +4,12 @@
   "region": "walim",
   "id": "wiejska-down-03",
   "name": "03 Wiejska - Walim",
+  "meta": {
+    "editedBy": "Kanalizer",
+    "editedAt": "2026-10-29T18:08:30.699Z",
+    "version": "0.7.43",
+    "build": "26.10.29-17.41"
+  },
   "points": [
     {
       "type": "timeControl",
@@ -118,6 +124,7 @@
         "len": 80,
         "dir": "R",
         "grade": 4,
+        "descent": 13,
         "show": {
           "lat": 50.713886,
           "lon": 16.459343,
@@ -227,6 +234,7 @@
         "dir": "L",
         "grade": 2,
         "junction": true,
+        "descent": 12,
         "show": {
           "lat": 50.708871,
           "lon": 16.449448,
@@ -263,6 +271,7 @@
         "len": 104,
         "dir": "L",
         "grade": 2,
+        "descent": 12,
         "show": {
           "lat": 50.704273,
           "lon": 16.447555,
@@ -300,6 +309,7 @@
         "len": 104,
         "dir": "R",
         "grade": 6,
+        "descent": 15,
         "show": {
           "lat": 50.703279,
           "lon": 16.447115,
