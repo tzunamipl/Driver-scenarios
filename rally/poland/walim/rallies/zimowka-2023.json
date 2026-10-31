@@ -1,0 +1,149 @@
+{
+  "format": 3,
+  "country": "poland",
+  "region": "walim",
+  "id": "zimowka-2023",
+  "name": "Walimska Zimowka 2023",
+  "meta": {
+    "createdBy": "dev_mode",
+    "createdAt": "2026-10-31T13:59:44.528Z",
+    "editedBy": "dev_mode",
+    "editedAt": "2026-10-31T13:59:44.528Z",
+    "version": "0.7.46"
+  },
+  "startTime": "17:00",
+  "base": {
+    "name": "",
+    "lat": 50.697221,
+    "lon": 16.441578
+  },
+  "itinerary": [
+    {
+      "type": "refuel",
+      "id": "fuel",
+      "lat": 50.69667,
+      "lon": 16.441843,
+      "width": 4,
+      "heading": 245,
+      "snap": false
+    },
+    {
+      "type": "tyreFitting",
+      "id": "tyres",
+      "lat": 50.696896,
+      "lon": 16.441552,
+      "width": 4,
+      "heading": 343.5,
+      "snap": false
+    },
+    {
+      "type": "serviceParkOut",
+      "id": "sp-out",
+      "lat": 50.697214,
+      "lon": 16.441352,
+      "width": 4
+    },
+    {
+      "stage": "poland/walim/patelnie-up-01",
+      "startTime": "17:28"
+    },
+    {
+      "stage": "poland/walim/patelnie-up-01",
+      "startTime": "18:00"
+    },
+    {
+      "point": "sp-in"
+    },
+    {
+      "point": "fuel"
+    },
+    {
+      "type": "service",
+      "id": "service",
+      "lat": 50.69674,
+      "lon": 16.44202,
+      "width": 4,
+      "snap": false
+    },
+    {
+      "type": "parcFerme",
+      "lat": 50.697241,
+      "lon": 16.44165,
+      "width": 10,
+      "nextStart": "08:30"
+    },
+    {
+      "point": "tyres"
+    },
+    {
+      "point": "sp-out"
+    },
+    {
+      "stage": "poland/walim/rosciszow",
+      "startTime": "09:18"
+    },
+    {
+      "stage": "poland/walim/patelnie-up-01",
+      "startTime": "09:46"
+    },
+    {
+      "type": "serviceParkIn",
+      "id": "sp-in",
+      "lat": 50.696898,
+      "lon": 16.44218,
+      "width": 4
+    },
+    {
+      "point": "fuel"
+    },
+    {
+      "point": "tyres"
+    },
+    {
+      "point": "service"
+    },
+    {
+      "point": "sp-out"
+    },
+    {
+      "stage": "poland/walim/rosciszow",
+      "startTime": "12:17"
+    },
+    {
+      "stage": "poland/walim/patelnie-up-01",
+      "startTime": "12:32"
+    },
+    {
+      "point": "sp-in"
+    },
+    {
+      "point": "fuel"
+    },
+    {
+      "point": "tyres"
+    },
+    {
+      "point": "service"
+    },
+    {
+      "point": "sp-out"
+    },
+    {
+      "stage": "poland/walim/patelnie-up-01",
+      "startTime": "14:30"
+    },
+    {
+      "stage": "poland/walim/rosciszow",
+      "startTime": "14:58"
+    },
+    {
+      "point": "sp-in"
+    },
+    {
+      "type": "podium",
+      "lat": 50.69726,
+      "lon": 16.441916,
+      "width": 10
+    }
+  ]
+}
