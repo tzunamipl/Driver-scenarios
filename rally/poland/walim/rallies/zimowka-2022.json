@@ -1,0 +1,119 @@
+{
+  "format": 3,
+  "country": "poland",
+  "region": "walim",
+  "id": "zimowka-2022",
+  "name": "Walimska Zimowka 2022",
+  "meta": {
+    "createdBy": "dev_mode",
+    "createdAt": "2026-10-31T13:50:12.043Z",
+    "editedBy": "dev_mode",
+    "editedAt": "2026-10-31T13:50:12.043Z",
+    "version": "0.7.46"
+  },
+  "startTime": "09:00",
+  "base": {
+    "name": "",
+    "lat": 50.697221,
+    "lon": 16.441578
+  },
+  "itinerary": [
+    {
+      "type": "refuel",
+      "id": "fuel",
+      "lat": 50.69667,
+      "lon": 16.441843,
+      "width": 4,
+      "heading": 245,
+      "snap": false
+    },
+    {
+      "type": "tyreFitting",
+      "id": "tyres",
+      "lat": 50.696896,
+      "lon": 16.441552,
+      "width": 4,
+      "heading": 343.5,
+      "snap": false
+    },
+    {
+      "type": "serviceParkOut",
+      "id": "sp-out",
+      "lat": 50.697214,
+      "lon": 16.441352,
+      "width": 4
+    },
+    {
+      "stage": "poland/walim/patelnie-up-01",
+      "startTime": "09:30"
+    },
+    {
+      "stage": "poland/walim/rosciszow",
+      "startTime": "10:30"
+    },
+    {
+      "type": "serviceParkIn",
+      "id": "sp-in",
+      "lat": 50.696898,
+      "lon": 16.44218,
+      "width": 4
+    },
+    {
+      "point": "fuel"
+    },
+    {
+      "point": "tyres"
+    },
+    {
+      "type": "service",
+      "id": "service",
+      "lat": 50.69674,
+      "lon": 16.44202,
+      "width": 4,
+      "snap": false
+    },
+    {
+      "point": "sp-out"
+    },
+    {
+      "stage": "poland/walim/patelnie-up-01",
+      "startTime": "12:02"
+    },
+    {
+      "stage": "poland/walim/rosciszow",
+      "startTime": "13:02"
+    },
+    {
+      "point": "sp-in"
+    },
+    {
+      "point": "fuel"
+    },
+    {
+      "point": "tyres"
+    },
+    {
+      "point": "service"
+    },
+    {
+      "point": "sp-out"
+    },
+    {
+      "stage": "poland/walim/patelnie-up-01",
+      "startTime": "14:04"
+    },
+    {
+      "stage": "poland/walim/rosciszow",
+      "startTime": "15:06"
+    },
+    {
+      "point": "sp-in"
+    },
+    {
+      "type": "podium",
+      "lat": 50.69726,
+      "lon": 16.441916,
+      "width": 10
+    }
+  ]
+}
