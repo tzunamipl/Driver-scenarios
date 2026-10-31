@@ -6,7 +6,7 @@
   "name": "01 Patelnie Walimskie",
   "meta": {
     "editedBy": "dev_mode",
-    "editedAt": "2026-10-31T13:13:03.491Z",
+    "editedAt": "2026-10-31T13:14:05.793Z",
     "version": "0.7.46"
   },
   "points": [
@@ -360,7 +360,7 @@
         "lon": 16.46354,
         "s": 2084,
         "len": 0,
-        "surface": "gravel",
+        "surface": "cobblestone",
         "show": {
           "lat": 50.702605,
           "lon": 16.462653,
@@ -507,7 +507,7 @@
         "lon": 16.46395,
         "s": 996,
         "len": 0,
-        "surface": "gravel",
+        "surface": "cobblestone",
         "show": {
           "lat": 50.701779,
           "lon": 16.464267,
@@ -890,7 +890,7 @@
       ]
     },
     {
-      "surface": "gravel",
+      "surface": "cobblestone",
       "from": 2084,
       "to": 2244,
       "points": [
