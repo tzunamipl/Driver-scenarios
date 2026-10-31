@@ -6,14 +6,14 @@
   "name": "Walim - Przelecz Walimska",
   "meta": {
     "editedBy": "dev_mode",
-    "editedAt": "2026-10-31T13:37:54.288Z",
+    "editedAt": "2026-10-31T13:38:50.530Z",
     "version": "0.7.46"
   },
   "points": [
     {
       "type": "timeControl",
-      "lat": 50.697736,
-      "lon": 16.456204,
+      "lat": 50.697815,
+      "lon": 16.455369,
       "width": 10
     },
     {
@@ -78,8 +78,8 @@
     },
     {
       "type": "stop",
-      "lat": 50.697385,
-      "lon": 16.473498,
+      "lat": 50.697224,
+      "lon": 16.474027,
       "width": 13
     }
   ],
