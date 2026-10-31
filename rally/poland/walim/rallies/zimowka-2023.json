@@ -8,7 +8,7 @@
     "createdBy": "dev_mode",
     "createdAt": "2026-10-31T13:59:44.528Z",
     "editedBy": "dev_mode",
-    "editedAt": "2026-10-31T17:52:05.011Z",
+    "editedAt": "2026-10-31T20:44:14.022Z",
     "version": "0.7.46"
   },
   "startTime": "17:00",
@@ -1180,9 +1180,11 @@
     },
     {
       "type": "parcFerme",
-      "lat": 50.697241,
-      "lon": 16.44165,
+      "lat": 50.696759,
+      "lon": 16.441607,
       "width": 10,
+      "heading": 351,
+      "snap": false,
       "nextStart": "08:30"
     },
     {
