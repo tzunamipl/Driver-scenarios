@@ -6,8 +6,8 @@
   "name": "03 Chaize Basse - Membrun",
   "meta": {
     "editedBy": "dev_mode",
-    "editedAt": "2026-10-29T12:25:40.405Z",
-    "version": "0.7.33"
+    "editedAt": "2026-11-01T06:37:39.643Z",
+    "version": "0.7.46"
   },
   "points": [
     {
@@ -4783,8 +4783,8 @@
     },
     {
       "type": "tape",
-      "lat": 45.814451,
-      "lon": 3.615216,
+      "lat": 45.814649,
+      "lon": 3.615354,
       "heading": 30.6,
       "length": 12
     },
