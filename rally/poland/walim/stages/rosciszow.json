@@ -8,7 +8,7 @@
     "createdBy": "dev_mode",
     "createdAt": "2026-10-31T13:37:10.650Z",
     "editedBy": "dev_mode",
-    "editedAt": "2026-11-01T09:43:42.937Z",
+    "editedAt": "2026-11-01T12:16:46.351Z",
     "version": "0.7.46"
   },
   "points": [
@@ -40,6 +40,12 @@
       "type": "passageControl",
       "lat": 50.705132,
       "lon": 16.519413,
+      "width": 10
+    },
+    {
+      "type": "split",
+      "lat": 50.70519,
+      "lon": 16.516708,
       "width": 10
     },
     {
@@ -82,12 +88,6 @@
       "type": "passageControl",
       "lat": 50.701503,
       "lon": 16.503886,
-      "width": 10
-    },
-    {
-      "type": "split",
-      "lat": 50.70519,
-      "lon": 16.516708,
       "width": 10
     },
     {
@@ -919,7 +919,7 @@
     }
   ],
   "route": {
-    "key": "e7b525f7",
+    "key": "d4e04b55",
     "length": 3540,
     "points": [
       [
@@ -1505,7 +1505,7 @@
     ]
   },
   "reverseRoute": {
-    "key": "2471c689",
+    "key": "299c254f",
     "length": 3541,
     "points": [
       [
