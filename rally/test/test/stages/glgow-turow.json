@@ -8,7 +8,7 @@
     "createdBy": "dev_mode",
     "createdAt": "2026-11-02T21:18:13.882Z",
     "editedBy": "dev_mode",
-    "editedAt": "2026-11-02T21:18:13.882Z",
+    "editedAt": "2026-11-02T21:24:28.070Z",
     "version": "0.7.46"
   },
   "points": [
@@ -25,9 +25,39 @@
       "width": 3
     },
     {
+      "type": "passageControl",
+      "lat": 51.637555,
+      "lon": 16.11487,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.636628,
+      "lon": 16.119008,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.63523,
+      "lon": 16.122699,
+      "width": 10
+    },
+    {
       "type": "split",
       "lat": 51.633656,
       "lon": 16.126171,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.631541,
+      "lon": 16.127987,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.629928,
+      "lon": 16.125475,
       "width": 10
     },
     {
@@ -37,9 +67,27 @@
       "width": 10
     },
     {
+      "type": "passageControl",
+      "lat": 51.626154,
+      "lon": 16.125571,
+      "width": 10
+    },
+    {
       "type": "split",
       "lat": 51.62427,
       "lon": 16.125833,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.621175,
+      "lon": 16.123129,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "lat": 51.617976,
+      "lon": 16.121202,
       "width": 10
     },
     {
@@ -478,7 +526,7 @@
     }
   ],
   "route": {
-    "key": "555cec12",
+    "key": "d0b89799",
     "length": 3647,
     "points": [
       [
@@ -779,7 +827,7 @@
     ]
   },
   "reverseRoute": {
-    "key": "5d3ff400",
+    "key": "81b591d1",
     "length": 3648,
     "points": [
       [
