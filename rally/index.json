@@ -4,6 +4,8 @@
     "france/monts-dome/03-membrun",
     "france/monts-dome/montimiot",
     "france/monts-dome/olmet",
+    "poland/rally-masters/opolnica",
+    "poland/rally-masters/wojborz",
     "poland/walim/modlecin-down-02",
     "poland/walim/patelnie-up-01",
     "poland/walim/rosciszow",
@@ -17,6 +19,7 @@
   ],
   "rallies": [
     "france/monts-dome/2026",
+    "poland/rally-masters/bardo-2021",
     "poland/walim/walim-2026",
     "poland/walim/zimowka-2022",
     "poland/walim/zimowka-2023",
