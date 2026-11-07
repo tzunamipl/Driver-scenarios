@@ -1,7 +1,11 @@
 {
   "format": 3,
   "stages": [
+    "finland/haijaa/kutala",
+    "finland/haijaa/peramaa",
+    "finland/haijaa/selkee",
     "finland/ylistaro/asema",
+    "finland/ylistaro/pakki-sprint",
     "finland/ylistaro/viitala-2015",
     "france/monts-dome/03-membrun",
     "france/monts-dome/montimiot",
@@ -31,6 +35,10 @@
     "test/test/test-upload"
   ],
   "rallies": [
+    "finland/haijaa/enset-oy",
+    "finland/haijaa/haijaa-pienoisralli",
+    "finland/haijaa/sinervon",
+    "finland/ylistaro/laihian",
     "finland/ylistaro/ylistaro-sprint-2015",
     "finland/ylistaro/ylistaro-sprint-2022",
     "france/monts-dome/2026",

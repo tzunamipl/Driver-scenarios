@@ -1,0 +1,87 @@
+{
+  "format": 3,
+  "country": "finland",
+  "region": "haijaa",
+  "id": "enset-oy",
+  "name": "Enset Oy Rallisprint",
+  "meta": {
+    "createdBy": "dev_mode",
+    "createdAt": "2026-11-07T17:12:42.700Z",
+    "editedBy": "dev_mode",
+    "editedAt": "2026-11-07T17:12:42.700Z",
+    "version": "0.8.21"
+  },
+  "base": {
+    "name": "",
+    "lat": 61.414813,
+    "lon": 23.170093
+  },
+  "itinerary": [
+    {
+      "type": "tyreFitting",
+      "lat": 61.415107,
+      "lon": 23.169264,
+      "width": 4
+    },
+    {
+      "stage": "finland/haijaa/kutala",
+      "startTime": "08:32",
+      "liaison": {
+        "key": "b83bd6d6",
+        "length": 410,
+        "duration": 55,
+        "points": [
+          [
+            61.415107,
+            23.169264
+          ],
+          [
+            61.415329,
+            23.168794
+          ],
+          [
+            61.414888,
+            23.164052
+          ],
+          [
+            61.413854,
+            23.164531
+          ]
+        ]
+      }
+    },
+    {
+      "stage": "finland/haijaa/kutala",
+      "startTime": "08:50",
+      "liaison": {
+        "key": "537ccef2",
+        "length": 439,
+        "duration": 52,
+        "points": [
+          [
+            61.413825,
+            23.168969
+          ],
+          [
+            61.41509,
+            23.166278
+          ],
+          [
+            61.414888,
+            23.164052
+          ],
+          [
+            61.413854,
+            23.164531
+          ]
+        ]
+      }
+    },
+    {
+      "type": "podium",
+      "lat": 61.415023,
+      "lon": 23.168223,
+      "width": 10
+    }
+  ]
+}
