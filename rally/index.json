@@ -1,6 +1,8 @@
 {
   "format": 3,
   "stages": [
+    "finland/ylistaro/asema",
+    "finland/ylistaro/viitala-2015",
     "france/monts-dome/03-membrun",
     "france/monts-dome/montimiot",
     "france/monts-dome/olmet",
@@ -30,6 +32,8 @@
     "test/test/test-upload"
   ],
   "rallies": [
+    "finland/ylistaro/ylistaro-sprint-2015",
+    "finland/ylistaro/ylistaro-sprint-2022",
     "france/monts-dome/2026",
     "lithuania/gravel-fest/2020",
     "lithuania/gravel-fest/2021",
