@@ -8,8 +8,8 @@
     "createdBy": "dev_mode",
     "createdAt": "2026-11-06T21:12:41.038Z",
     "editedBy": "dev_mode",
-    "editedAt": "2026-11-06T21:12:41.038Z",
-    "version": "0.8.19"
+    "editedAt": "2026-11-07T08:33:38.950Z",
+    "version": "0.8.21"
   },
   "base": {
     "name": "",
@@ -19,12 +19,14 @@
   "itinerary": [
     {
       "type": "refuel",
+      "id": "fuel",
       "lat": 54.234763,
       "lon": 23.517009,
       "width": 4
     },
     {
       "type": "tyreFitting",
+      "id": "tyres",
       "lat": 54.234684,
       "lon": 23.516916,
       "width": 4
@@ -580,6 +582,12 @@
           ]
         ]
       }
+    },
+    {
+      "point": "fuel"
+    },
+    {
+      "point": "tyres"
     },
     {
       "type": "service",
