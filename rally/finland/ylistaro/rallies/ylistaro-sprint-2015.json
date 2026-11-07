@@ -1,0 +1,110 @@
+{
+  "format": 3,
+  "country": "finland",
+  "region": "ylistaro",
+  "id": "ylistaro-sprint-2015",
+  "name": "Ylistaro Sprint 2015",
+  "meta": {
+    "createdBy": "dev_mode",
+    "createdAt": "2026-11-07T13:54:35.556Z",
+    "editedBy": "dev_mode",
+    "editedAt": "2026-11-07T13:54:35.556Z",
+    "version": "0.8.21"
+  },
+  "startTime": "12:00",
+  "base": {
+    "name": "",
+    "lat": 62.942659,
+    "lon": 22.587056
+  },
+  "itinerary": [
+    {
+      "type": "refuel",
+      "id": "fuel",
+      "lat": 62.942826,
+      "lon": 22.592855,
+      "width": 4,
+      "liaison": {
+        "key": "e4016841",
+        "length": 295,
+        "duration": 107,
+        "points": [
+          [
+            62.942642,
+            22.58706
+          ],
+          [
+            62.942778,
+            22.589617
+          ],
+          [
+            62.942887,
+            22.590806
+          ],
+          [
+            62.942826,
+            22.592855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "tyreFitting",
+      "id": "tyres",
+      "lat": 62.942924,
+      "lon": 22.593397,
+      "width": 4
+    },
+    {
+      "stage": "finland/ylistaro/viitala-2015",
+      "startTime": "12:33"
+    },
+    {
+      "type": "service",
+      "lat": 62.942836,
+      "lon": 22.592492,
+      "width": 4,
+      "heading": 95.4,
+      "liaison": {
+        "key": "db44c4d9",
+        "length": 473,
+        "duration": 171,
+        "points": [
+          [
+            62.942442,
+            22.583216
+          ],
+          [
+            62.942778,
+            22.589617
+          ],
+          [
+            62.942887,
+            22.590806
+          ],
+          [
+            62.942835,
+            22.592492
+          ]
+        ]
+      }
+    },
+    {
+      "point": "fuel"
+    },
+    {
+      "point": "tyres"
+    },
+    {
+      "stage": "finland/ylistaro/viitala-2015",
+      "startTime": "13:29"
+    },
+    {
+      "type": "podium",
+      "lat": 62.942601,
+      "lon": 22.586247,
+      "width": 10,
+      "heading": 83.4
+    }
+  ]
+}
