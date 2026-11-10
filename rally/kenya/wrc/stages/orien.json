@@ -7,27 +7,6 @@
   "meta": {
     "createdBy": "Kanalizer",
     "createdAt": "2026-11-09T17:46:11.422Z",
-    "editedBy": "Kanalizer",
-    "editedAt": "2026-11-09T17:46:11.422Z",
-    "version": "0.9.2",
-    "build": "26.11.09-16.43"
-  },
-  "points": [
-    {
-      "type": "timeControl",
-      "lat": -1.945234,
-      "lon": 36.788164,
-      "width": 3,
-      "heading": 94.2
-    },
-    {
-      "type": "start",
-      "lat": -1.945245,
-      "lon": 36.789087,
-      "width": 3
-    },
-    {
-      "type": "passageControl",
       "lat": -1.961017,
       "lon": 36.913642,
       "width": 10,
