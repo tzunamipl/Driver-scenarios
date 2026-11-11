@@ -8,7 +8,7 @@
     "createdBy": "Kanalizer",
     "createdAt": "2026-11-08T17:17:07.230Z",
     "editedBy": "dev_mode",
-    "editedAt": "2026-11-10T20:47:57.261Z",
+    "editedAt": "2026-11-11T06:58:55.491Z",
     "version": "0.8.29"
   },
   "points": [
@@ -227,10 +227,9 @@
     },
     {
       "type": "passageControl",
-      "lat": 61.825159,
-      "lon": 25.454452,
-      "width": 10,
-      "heading": 320.9
+      "lat": 61.825721,
+      "lon": 25.453391,
+      "width": 10
     },
     {
       "type": "passageControl",
@@ -10330,7 +10329,7 @@
     }
   ],
   "route": {
-    "key": "c44d5fe7",
+    "key": "e1d9fe79",
     "length": 30987,
     "points": [
       [
@@ -12951,7 +12950,7 @@
     ]
   },
   "reverseRoute": {
-    "key": "5cded10d",
+    "key": "dfefdaa7",
     "length": 30958,
     "points": [
       [
