@@ -8,14 +8,19 @@
     "createdBy": "dev_mode",
     "createdAt": "2026-11-05T14:15:21.727Z",
     "editedBy": "dev_mode",
-    "editedAt": "2026-11-05T14:16:19.511Z",
-    "version": "0.8.16"
+    "editedAt": "2026-11-12T08:07:19.473Z",
+    "version": "0.8.29"
   },
   "startTime": "08:00",
   "base": {
     "name": "",
     "lat": 50.512804,
-    "lon": 16.73924
+    "lon": 16.73924,
+    "parking": {
+      "lat": 50.512619,
+      "lon": 16.739263,
+      "heading": 316.1
+    }
   },
   "itinerary": [
     {
@@ -25,7 +30,12 @@
       "lon": 16.739309,
       "width": 4,
       "heading": 44.1,
-      "snap": false
+      "snap": false,
+      "parking": {
+        "lat": 50.513152,
+        "lon": 16.738934,
+        "heading": 47.9
+      }
     },
     {
       "type": "tyreFitting",
@@ -34,7 +44,12 @@
       "lon": 16.739509,
       "width": 4,
       "heading": 46.9,
-      "snap": false
+      "snap": false,
+      "parking": {
+        "lat": 50.51274,
+        "lon": 16.738853,
+        "heading": 45.8
+      }
     },
     {
       "type": "serviceParkOut",
@@ -48,7 +63,7 @@
     {
       "stage": "poland/rally-masters/opolnica",
       "reverse": true,
-      "startTime": "08:55",
+      "startTime": "08:45",
       "liaison": {
         "key": "7fe51358",
         "length": 4206,
@@ -271,7 +286,7 @@
     },
     {
       "stage": "poland/rally-masters/wojborz",
-      "startTime": "09:18",
+      "startTime": "09:08",
       "liaison": {
         "key": "2ed5328f",
         "length": 2882,
@@ -987,7 +1002,7 @@
     {
       "stage": "poland/rally-masters/opolnica",
       "reverse": true,
-      "startTime": "11:18",
+      "startTime": "10:43",
       "liaison": {
         "key": "7fe51358",
         "length": 4206,
@@ -1210,7 +1225,7 @@
     },
     {
       "stage": "poland/rally-masters/wojborz",
-      "startTime": "11:41",
+      "startTime": "11:06",
       "liaison": {
         "key": "2ed5328f",
         "length": 2882,
@@ -1916,7 +1931,7 @@
     {
       "stage": "poland/rally-masters/opolnica",
       "reverse": true,
-      "startTime": "13:41",
+      "startTime": "12:41",
       "liaison": {
         "key": "7fe51358",
         "length": 4206,
@@ -2139,7 +2154,7 @@
     },
     {
       "stage": "poland/rally-masters/wojborz",
-      "startTime": "14:04",
+      "startTime": "13:04",
       "liaison": {
         "key": "2ed5328f",
         "length": 2882,
@@ -2845,7 +2860,7 @@
     {
       "stage": "poland/rally-masters/wojborz",
       "reverse": true,
-      "startTime": "16:16",
+      "startTime": "14:51",
       "liaison": {
         "key": "eaba4bc2",
         "length": 14663,
@@ -3364,7 +3379,7 @@
     },
     {
       "stage": "poland/rally-masters/opolnica",
-      "startTime": "16:40",
+      "startTime": "15:15",
       "liaison": {
         "key": "27636063",
         "length": 2882,
