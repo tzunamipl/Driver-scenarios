@@ -8,9 +8,9 @@
     "createdBy": "Kanalizer",
     "createdAt": "2026-11-08T20:38:24.338Z",
     "editedBy": "Kanalizer",
-    "editedAt": "2026-11-08T20:38:24.338Z",
-    "version": "0.8.30",
-    "build": "26.11.08-12.58"
+    "editedAt": "2026-11-14T15:57:44.228Z",
+    "version": "0.9.22",
+    "build": "26.11.14-08.18"
   },
   "points": [
     {
@@ -28,38 +28,26 @@
     },
     {
       "type": "passageControl",
-      "lat": 62.206782,
-      "lon": 26.1943,
+      "lat": 62.206581,
+      "lon": 26.187696,
       "width": 10
     },
     {
       "type": "passageControl",
-      "lat": 62.20637,
-      "lon": 26.187866,
+      "lat": 62.210014,
+      "lon": 26.186344,
       "width": 10
     },
     {
       "type": "passageControl",
-      "lat": 62.208734,
-      "lon": 26.187102,
+      "lat": 62.211862,
+      "lon": 26.180085,
       "width": 10
     },
     {
       "type": "passageControl",
-      "lat": 62.210496,
-      "lon": 26.184378,
-      "width": 10
-    },
-    {
-      "type": "passageControl",
-      "lat": 62.211701,
-      "lon": 26.179908,
-      "width": 10
-    },
-    {
-      "type": "passageControl",
-      "lat": 62.21445,
-      "lon": 26.183011,
+      "lat": 62.213669,
+      "lon": 26.182125,
       "width": 10
     },
     {
@@ -70,26 +58,26 @@
     },
     {
       "type": "passageControl",
-      "lat": 62.219764,
-      "lon": 26.178063,
+      "lat": 62.218565,
+      "lon": 26.180916,
       "width": 10
     },
     {
       "type": "passageControl",
-      "lat": 62.221014,
-      "lon": 26.171843,
+      "lat": 62.221282,
+      "lon": 26.167623,
       "width": 10
     },
     {
       "type": "passageControl",
-      "lat": 62.221283,
-      "lon": 26.164333,
+      "lat": 62.221307,
+      "lon": 26.162439,
       "width": 10
     },
     {
       "type": "passageControl",
-      "lat": 62.221409,
-      "lon": 26.157288,
+      "lat": 62.221482,
+      "lon": 26.157114,
       "width": 10
     },
     {
@@ -106,32 +94,26 @@
     },
     {
       "type": "passageControl",
-      "lat": 62.227551,
-      "lon": 26.148362,
+      "lat": 62.225483,
+      "lon": 26.148991,
       "width": 10
     },
     {
       "type": "passageControl",
-      "lat": 62.230866,
-      "lon": 26.148565,
+      "lat": 62.228927,
+      "lon": 26.148487,
       "width": 10
     },
     {
       "type": "passageControl",
-      "lat": 62.232917,
-      "lon": 26.143926,
+      "lat": 62.232612,
+      "lon": 26.14676,
       "width": 10
     },
     {
       "type": "passageControl",
-      "lat": 62.2355,
-      "lon": 26.141786,
-      "width": 10
-    },
-    {
-      "type": "passageControl",
-      "lat": 62.238822,
-      "lon": 26.142794,
+      "lat": 62.236371,
+      "lon": 26.142166,
       "width": 10
     },
     {
@@ -860,10 +842,59 @@
       "lon": 26.147204,
       "heading": 68.5,
       "length": 10
+    },
+    {
+      "type": "tape",
+      "lat": 62.232636,
+      "lon": 26.14516,
+      "heading": 18.3,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 62.228694,
+      "lon": 26.148063,
+      "heading": 88.6,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 62.22876,
+      "lon": 26.149157,
+      "heading": 275.8,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 62.225332,
+      "lon": 26.148744,
+      "heading": 97.6,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 62.222825,
+      "lon": 26.154083,
+      "heading": 36.8,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 62.221109,
+      "lon": 26.16275,
+      "heading": 355.3,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 62.221493,
+      "lon": 26.167963,
+      "heading": 196.5,
+      "length": 12
     }
   ],
   "route": {
-    "key": "2b21a495",
+    "key": "2e6c5e4f",
     "length": 6504,
     "points": [
       [
@@ -1434,7 +1465,7 @@
     ]
   },
   "reverseRoute": {
-    "key": "44fa7671",
+    "key": "7530a82b",
     "length": 6500,
     "points": [
       [
