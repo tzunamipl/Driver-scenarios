@@ -8,7 +8,7 @@
     "createdBy": "Kanalizer",
     "createdAt": "2026-11-08T20:31:57.790Z",
     "editedBy": "Kanalizer",
-    "editedAt": "2026-11-15T19:11:15.343Z",
+    "editedAt": "2026-11-15T19:11:36.429Z",
     "version": "0.9.23",
     "build": "26.11.15-10.42"
   },
@@ -3748,23 +3748,23 @@
     },
     {
       "type": "tape",
-      "lat": 61.813547,
-      "lon": 25.768196,
-      "heading": 189.8,
-      "length": 10
-    },
-    {
-      "type": "tape",
-      "lat": 61.812164,
-      "lon": 25.76575,
-      "heading": 62.1,
-      "length": 10
-    },
-    {
-      "type": "tape",
       "lat": 61.812614,
       "lon": 25.767251,
       "heading": 144.3,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 61.813633,
+      "lon": 25.767986,
+      "heading": 70.4,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 61.813545,
+      "lon": 25.767972,
+      "heading": 50.5,
       "length": 12
     },
     {
