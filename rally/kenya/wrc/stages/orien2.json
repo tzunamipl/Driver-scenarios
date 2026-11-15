@@ -1,0 +1,31 @@
+{
+  "format": 3,
+  "country": "kenya",
+  "region": "wrc",
+  "id": "orien2",
+  "name": "Orien",
+  "meta": {
+    "createdBy": "Kanalizer",
+    "createdAt": "2026-11-15T14:37:23.217Z",
+    "editedBy": "Kanalizer",
+    "editedAt": "2026-11-15T14:37:23.217Z",
+    "version": "0.9.23",
+    "build": "26.11.15-10.42"
+  },
+  "points": [
+    {
+      "type": "start",
+      "lat": -0.152048,
+      "lon": 35.942398,
+      "width": 3,
+      "heading": 0,
+      "snap": false
+    },
+    {
+      "type": "finish",
+      "lat": -0.148547,
+      "lon": 35.939083,
+      "width": 10
+    }
+  ]
+}
