@@ -8,9 +8,9 @@
     "createdBy": "Kanalizer",
     "createdAt": "2026-11-15T19:52:13.376Z",
     "editedBy": "Kanalizer",
-    "editedAt": "2026-11-15T19:52:13.376Z",
-    "version": "0.9.23",
-    "build": "26.11.15-10.42"
+    "editedAt": "2026-11-16T11:34:03.676Z",
+    "version": "0.9.24",
+    "build": "26.11.15-20.19"
   },
   "points": [
     {
@@ -35,7 +35,8 @@
       "type": "passageControl",
       "lat": 50.88966,
       "lon": 16.744231,
-      "width": 10
+      "width": 10,
+      "snap": false
     },
     {
       "type": "split",
