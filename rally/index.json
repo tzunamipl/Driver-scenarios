@@ -70,7 +70,8 @@
     "test/test/test",
     "test/test/test-upload",
     "vanuatu/efate/korman",
-    "vanuatu/efate/plantatino-russet"
+    "vanuatu/efate/plantatino-russet",
+    "vanuatu/efate/t-airstrip"
   ],
   "rallies": [
     "finland/haijaa/enset-oy",
