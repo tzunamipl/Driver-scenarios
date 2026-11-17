@@ -8,7 +8,7 @@
     "createdBy": "Kanalizer",
     "createdAt": "2026-11-17T09:58:32.927Z",
     "editedBy": "Kanalizer",
-    "editedAt": "2026-11-17T09:59:13.627Z",
+    "editedAt": "2026-11-17T10:05:31.968Z",
     "version": "0.9.24",
     "build": "26.11.15-20.19"
   },
@@ -1751,6 +1751,144 @@
       "type": "hayBale",
       "lat": -17.781314,
       "lon": 168.551623,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.79019,
+      "lon": 168.530706,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.790269,
+      "lon": 168.530732,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.790176,
+      "lon": 168.530792,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.786437,
+      "lon": 168.528496,
+      "heading": 354.7
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.786547,
+      "lon": 168.528516,
+      "heading": 354.7
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.786336,
+      "lon": 168.528616,
+      "heading": 51.6
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.784173,
+      "lon": 168.529977,
+      "heading": 356.4
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.784244,
+      "lon": 168.52999,
+      "heading": 356.4
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.784102,
+      "lon": 168.530059,
+      "heading": 356.4
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.782974,
+      "lon": 168.547531,
+      "heading": 294.6
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.78292,
+      "lon": 168.547454,
+      "heading": 291
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.782913,
+      "lon": 168.547611,
+      "heading": 294.6
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.781746,
+      "lon": 168.549212,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.781793,
+      "lon": 168.5491,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.781686,
+      "lon": 168.549114,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.778978,
+      "lon": 168.545602,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.779017,
+      "lon": 168.545657,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.77892,
+      "lon": 168.545676,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.778258,
+      "lon": 168.546949,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.778292,
+      "lon": 168.5469,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.778293,
+      "lon": 168.546997,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.781343,
+      "lon": 168.55165,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": -17.781178,
+      "lon": 168.551506,
       "heading": 0
     }
   ],
