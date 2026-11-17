@@ -8,7 +8,7 @@
     "createdBy": "Kanalizer",
     "createdAt": "2026-11-17T09:58:32.927Z",
     "editedBy": "Kanalizer",
-    "editedAt": "2026-11-17T10:17:38.268Z",
+    "editedAt": "2026-11-17T10:18:59.236Z",
     "version": "0.9.24",
     "build": "26.11.15-20.19"
   },
@@ -1997,6 +1997,76 @@
       "lat": -17.781281,
       "lon": 168.551612,
       "heading": 0
+    },
+    {
+      "type": "tape",
+      "lat": -17.797808,
+      "lon": 168.531968,
+      "heading": 17,
+      "length": 70
+    },
+    {
+      "type": "tape",
+      "lat": -17.798041,
+      "lon": 168.533237,
+      "heading": 9,
+      "length": 150
+    },
+    {
+      "type": "tape",
+      "lat": -17.797432,
+      "lon": 168.532586,
+      "heading": 191.4,
+      "length": 70
+    },
+    {
+      "type": "warningSign",
+      "lat": -17.79746,
+      "lon": 168.531454,
+      "heading": 0
+    },
+    {
+      "type": "warningSign",
+      "lat": -17.79762,
+      "lon": 168.53159,
+      "heading": 0
+    },
+    {
+      "type": "warningSign",
+      "lat": -17.797697,
+      "lon": 168.531731,
+      "heading": 0
+    },
+    {
+      "type": "warningSign",
+      "lat": -17.798098,
+      "lon": 168.533867,
+      "heading": 0
+    },
+    {
+      "type": "warningSign",
+      "lat": -17.798169,
+      "lon": 168.533725,
+      "heading": 0
+    },
+    {
+      "type": "warningSign",
+      "lat": -17.797867,
+      "lon": 168.533926,
+      "heading": 0
+    },
+    {
+      "type": "warningSign",
+      "lat": -17.797727,
+      "lon": 168.533835,
+      "heading": 0
+    },
+    {
+      "type": "tape",
+      "lat": -17.797687,
+      "lon": 168.533544,
+      "heading": 198,
+      "length": 100
     }
   ],
   "route": {
