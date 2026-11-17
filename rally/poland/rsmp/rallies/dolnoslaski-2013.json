@@ -8,7 +8,7 @@
     "createdBy": "Kanalizer",
     "createdAt": "2026-11-17T13:57:03.656Z",
     "editedBy": "Kanalizer",
-    "editedAt": "2026-11-17T13:59:20.655Z",
+    "editedAt": "2026-11-17T14:02:36.046Z",
     "version": "0.9.24",
     "build": "26.11.15-20.19"
   },
@@ -87,6 +87,7 @@
       "lat": 50.410579,
       "lon": 16.519071,
       "width": 4,
+      "serviceMin": 30,
       "parking": {
         "lat": 50.410692,
         "lon": 16.519057,
@@ -869,7 +870,8 @@
       "point": "fuel"
     },
     {
-      "point": "service"
+      "point": "service",
+      "serviceMin": 30
     },
     {
       "type": "parcFerme",
@@ -3995,14 +3997,15 @@
       "point": "tyres"
     },
     {
-      "point": "service"
+      "point": "service",
+      "serviceMin": 15
     },
     {
       "point": "sp-out"
     },
     {
       "stage": "poland/rsmp/domaszkow",
-      "startTime": "12:20",
+      "startTime": "12:05",
       "liaison": {
         "key": "bbbdfd1e",
         "length": 31482,
@@ -5169,7 +5172,7 @@
     },
     {
       "stage": "poland/rsmp/wilkanow",
-      "startTime": "13:22",
+      "startTime": "13:07",
       "liaison": {
         "key": "2bc23d3d",
         "length": 17599,
@@ -7102,7 +7105,8 @@
       "point": "fuel"
     },
     {
-      "point": "service"
+      "point": "service",
+      "serviceMin": 45
     },
     {
       "point": "parc"
@@ -10369,14 +10373,15 @@
       "point": "tyres"
     },
     {
-      "point": "service"
+      "point": "service",
+      "serviceMin": 15
     },
     {
       "point": "sp-out"
     },
     {
       "stage": "poland/rsmp/staropolanka",
-      "startTime": "12:04",
+      "startTime": "11:49",
       "liaison": {
         "via": [
           [
@@ -11057,7 +11062,7 @@
     },
     {
       "stage": "poland/rsmp/bgk",
-      "startTime": "12:55",
+      "startTime": "12:40",
       "liaison": {
         "key": "2a2be5dd",
         "length": 15787,
@@ -11732,7 +11737,7 @@
     },
     {
       "stage": "poland/rsmp/radkowska-perla",
-      "startTime": "14:02",
+      "startTime": "13:47",
       "liaison": {
         "key": "3564d814",
         "length": 30645,
@@ -13630,14 +13635,15 @@
       "point": "tyres"
     },
     {
-      "point": "service"
+      "point": "service",
+      "serviceMin": 15
     },
     {
       "point": "sp-out"
     },
     {
       "stage": "poland/rsmp/staropolanka",
-      "startTime": "16:05",
+      "startTime": "15:35",
       "liaison": {
         "via": [
           [
