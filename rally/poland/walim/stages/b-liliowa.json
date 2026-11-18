@@ -8,7 +8,7 @@
     "createdBy": "Kanalizer",
     "createdAt": "2026-11-18T07:30:36.597Z",
     "editedBy": "dev_mode",
-    "editedAt": "2026-11-18T07:54:41.234Z",
+    "editedAt": "2026-11-18T07:57:08.922Z",
     "version": "0.9.25"
   },
   "points": [
@@ -256,7 +256,7 @@
   ],
   "areas": [
     {
-      "surface": "gravel",
+      "surface": "tarmac",
       "a": [
         50.686976,
         16.633072
