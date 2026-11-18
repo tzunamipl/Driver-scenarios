@@ -1,0 +1,573 @@
+{
+  "format": 3,
+  "country": "poland",
+  "region": "walim",
+  "id": "b-tartak",
+  "name": "Bielawa Tartak",
+  "meta": {
+    "createdBy": "dev_mode",
+    "createdAt": "2026-11-18T09:24:41.377Z",
+    "editedBy": "dev_mode",
+    "editedAt": "2026-11-18T09:24:41.377Z",
+    "version": "0.9.25"
+  },
+  "points": [
+    {
+      "type": "timeControl",
+      "lat": 50.679991,
+      "lon": 16.600802,
+      "width": 3
+    },
+    {
+      "type": "start",
+      "lat": 50.6801,
+      "lon": 16.6004,
+      "width": 3
+    },
+    {
+      "type": "passageControl",
+      "id": "pc-6",
+      "lat": 50.679876,
+      "lon": 16.600099,
+      "width": 10
+    },
+    {
+      "type": "passageControl",
+      "id": "pc-5",
+      "lat": 50.680085,
+      "lon": 16.599885,
+      "width": 10,
+      "heading": 249,
+      "snap": false,
+      "straight": true,
+      "noSurface": true
+    },
+    {
+      "type": "passageControl",
+      "id": "pc-2",
+      "lat": 50.679735,
+      "lon": 16.599668,
+      "width": 10,
+      "heading": 272,
+      "snap": false,
+      "straight": true,
+      "noSurface": true
+    },
+    {
+      "type": "passageControl",
+      "id": "pc",
+      "lat": 50.679889,
+      "lon": 16.599622,
+      "width": 10,
+      "heading": 308,
+      "snap": false,
+      "straight": true,
+      "noSurface": true
+    },
+    {
+      "type": "passageControl",
+      "id": "pc-3",
+      "lat": 50.679869,
+      "lon": 16.59918,
+      "width": 10,
+      "heading": 0,
+      "snap": false,
+      "straight": true,
+      "noSurface": true
+    },
+    {
+      "type": "passageControl",
+      "id": "pc-4",
+      "lat": 50.679889,
+      "lon": 16.59933,
+      "width": 10,
+      "heading": 202,
+      "snap": false
+    },
+    {
+      "point": "pc",
+      "straight": true,
+      "noSurface": true
+    },
+    {
+      "point": "pc-2",
+      "straight": true,
+      "noSurface": true
+    },
+    {
+      "point": "pc",
+      "straight": true,
+      "noSurface": true
+    },
+    {
+      "point": "pc-3",
+      "straight": true,
+      "noSurface": true
+    },
+    {
+      "point": "pc-4",
+      "straight": true,
+      "noSurface": true
+    },
+    {
+      "point": "pc",
+      "straight": true,
+      "noSurface": true
+    },
+    {
+      "point": "pc-2",
+      "straight": true,
+      "noSurface": true
+    },
+    {
+      "point": "pc-5",
+      "straight": true,
+      "noSurface": true
+    },
+    {
+      "point": "pc-6",
+      "straight": true,
+      "noSurface": true
+    },
+    {
+      "type": "finish",
+      "lat": 50.680089,
+      "lon": 16.600385,
+      "width": 10
+    },
+    {
+      "type": "stop",
+      "lat": 50.680424,
+      "lon": 16.599982,
+      "width": 3
+    }
+  ],
+  "areas": [
+    {
+      "surface": "tarmac",
+      "a": [
+        50.679608,
+        16.599039
+      ],
+      "b": [
+        50.680006,
+        16.599928
+      ],
+      "heading": 220
+    },
+    {
+      "surface": "cobblestone",
+      "a": [
+        50.679812,
+        16.599702
+      ],
+      "b": [
+        50.680158,
+        16.600426
+      ],
+      "heading": 39
+    },
+    {
+      "surface": "cobblestone",
+      "a": [
+        50.680117,
+        16.600527
+      ],
+      "b": [
+        50.680033,
+        16.600307
+      ],
+      "heading": 218
+    }
+  ],
+  "objects": [
+    {
+      "type": "hayBale",
+      "lat": 50.679904,
+      "lon": 16.599269,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679955,
+      "lon": 16.599277,
+      "heading": 129.7
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679869,
+      "lon": 16.599255,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679942,
+      "lon": 16.599426,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679854,
+      "lon": 16.599406,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679886,
+      "lon": 16.599426,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679781,
+      "lon": 16.599666,
+      "heading": 220.2
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679809,
+      "lon": 16.599511,
+      "heading": 220.2
+    },
+    {
+      "type": "tape",
+      "lat": 50.679833,
+      "lon": 16.599544,
+      "heading": 313,
+      "length": 5
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679787,
+      "lon": 16.599492,
+      "heading": 220.2
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679717,
+      "lon": 16.599429,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.67968,
+      "lon": 16.599378,
+      "heading": 0
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679825,
+      "lon": 16.599937,
+      "heading": 220.2
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679782,
+      "lon": 16.600024,
+      "heading": 220.2
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679892,
+      "lon": 16.599824,
+      "heading": 220.2
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679948,
+      "lon": 16.599701,
+      "heading": 220.2
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679915,
+      "lon": 16.599769,
+      "heading": 220.2
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679908,
+      "lon": 16.600047,
+      "heading": 220.2
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.67995,
+      "lon": 16.60011,
+      "heading": 220.2
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.679999,
+      "lon": 16.600177,
+      "heading": 220.2
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.680043,
+      "lon": 16.599911,
+      "heading": 220.2
+    },
+    {
+      "type": "hayBale",
+      "lat": 50.680007,
+      "lon": 16.599924,
+      "heading": 220.2
+    },
+    {
+      "type": "tape",
+      "lat": 50.679929,
+      "lon": 16.599272,
+      "heading": 276,
+      "length": 6
+    },
+    {
+      "type": "tape",
+      "lat": 50.679888,
+      "lon": 16.599262,
+      "heading": 282.9,
+      "length": 4
+    },
+    {
+      "type": "tape",
+      "lat": 50.679874,
+      "lon": 16.599419,
+      "heading": 288.5,
+      "length": 4
+    },
+    {
+      "type": "tape",
+      "lat": 50.679917,
+      "lon": 16.599426,
+      "heading": 271,
+      "length": 6
+    },
+    {
+      "type": "tape",
+      "lat": 50.679763,
+      "lon": 16.59947,
+      "heading": 300,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.679915,
+      "lon": 16.599769,
+      "heading": 37.9,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.679795,
+      "lon": 16.600006,
+      "heading": 219,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.679949,
+      "lon": 16.600112,
+      "heading": 310.2,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.680026,
+      "lon": 16.599916,
+      "heading": 266.4,
+      "length": 5
+    }
+  ],
+  "route": {
+    "key": "752a16d8",
+    "length": 475,
+    "points": [
+      [
+        50.6801,
+        16.6004,
+        0
+      ],
+      [
+        50.679876,
+        16.600099,
+        0
+      ],
+      [
+        50.680085,
+        16.599885,
+        0
+      ],
+      [
+        50.679735,
+        16.599668,
+        0
+      ],
+      [
+        50.679889,
+        16.599622,
+        0
+      ],
+      [
+        50.679869,
+        16.59918,
+        0
+      ],
+      [
+        50.680257,
+        16.599097,
+        0
+      ],
+      [
+        50.679889,
+        16.59933,
+        0
+      ],
+      [
+        50.679889,
+        16.599622,
+        0
+      ],
+      [
+        50.679735,
+        16.599668,
+        0
+      ],
+      [
+        50.679889,
+        16.599622,
+        0
+      ],
+      [
+        50.679869,
+        16.59918,
+        0
+      ],
+      [
+        50.679889,
+        16.59933,
+        0
+      ],
+      [
+        50.679889,
+        16.599622,
+        0
+      ],
+      [
+        50.679735,
+        16.599668,
+        0
+      ],
+      [
+        50.680085,
+        16.599885,
+        0
+      ],
+      [
+        50.679876,
+        16.600099,
+        0
+      ],
+      [
+        50.680089,
+        16.600385,
+        0
+      ]
+    ]
+  },
+  "reverseRoute": {
+    "key": "dae3d684",
+    "length": 475,
+    "points": [
+      [
+        50.680089,
+        16.600385,
+        0
+      ],
+      [
+        50.679876,
+        16.600099,
+        0
+      ],
+      [
+        50.680085,
+        16.599885,
+        0
+      ],
+      [
+        50.679735,
+        16.599668,
+        0
+      ],
+      [
+        50.679889,
+        16.599622,
+        0
+      ],
+      [
+        50.679889,
+        16.59933,
+        0
+      ],
+      [
+        50.679869,
+        16.59918,
+        0
+      ],
+      [
+        50.679889,
+        16.599622,
+        0
+      ],
+      [
+        50.679735,
+        16.599668,
+        0
+      ],
+      [
+        50.679889,
+        16.599622,
+        0
+      ],
+      [
+        50.679889,
+        16.59933,
+        0
+      ],
+      [
+        50.680257,
+        16.599097,
+        0
+      ],
+      [
+        50.679869,
+        16.59918,
+        0
+      ],
+      [
+        50.679889,
+        16.599622,
+        0
+      ],
+      [
+        50.679735,
+        16.599668,
+        0
+      ],
+      [
+        50.680085,
+        16.599885,
+        0
+      ],
+      [
+        50.679876,
+        16.600099,
+        0
+      ],
+      [
+        50.6801,
+        16.6004,
+        0
+      ]
+    ]
+  }
+}
