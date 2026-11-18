@@ -8,9 +8,9 @@
     "createdBy": "Kanalizer",
     "createdAt": "2026-11-17T07:39:47.903Z",
     "editedBy": "Kanalizer",
-    "editedAt": "2026-11-18T15:42:08.781Z",
-    "version": "0.9.24",
-    "build": "26.11.15-20.19"
+    "editedAt": "2026-11-18T15:45:29.434Z",
+    "version": "0.9.26",
+    "build": "26.11.18-15.42"
   },
   "points": [
     {
@@ -38,7 +38,8 @@
       "width": 10,
       "heading": 64,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -47,7 +48,8 @@
       "width": 10,
       "heading": 91,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -56,7 +58,8 @@
       "width": 10,
       "heading": 140,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -65,7 +68,8 @@
       "width": 10,
       "heading": 154,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -74,7 +78,8 @@
       "width": 10,
       "heading": 230,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -83,7 +88,8 @@
       "width": 10,
       "heading": 217,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -92,7 +98,8 @@
       "width": 10,
       "heading": 254,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -101,7 +108,8 @@
       "width": 10,
       "heading": 269,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -110,7 +118,8 @@
       "width": 10,
       "heading": 282,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -119,7 +128,8 @@
       "width": 10,
       "heading": 118,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "split",
@@ -137,7 +147,8 @@
       "width": 10,
       "heading": 81,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -146,7 +157,8 @@
       "width": 10,
       "heading": 152,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -155,7 +167,8 @@
       "width": 10,
       "heading": 126,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -164,7 +177,8 @@
       "width": 10,
       "heading": 130,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -173,7 +187,8 @@
       "width": 10,
       "heading": 300,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -182,7 +197,8 @@
       "width": 10,
       "heading": 110,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -191,16 +207,18 @@
       "width": 10,
       "heading": 112,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
-      "lat": -17.735809,
-      "lon": 168.339895,
+      "lat": -17.735963,
+      "lon": 168.339921,
       "width": 10,
       "heading": 178,
       "snap": false,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "passageControl",
@@ -208,7 +226,8 @@
       "lon": 168.34034,
       "width": 10,
       "heading": 27.4,
-      "straight": true
+      "straight": true,
+      "noSurface": true
     },
     {
       "type": "split",
@@ -1172,8 +1191,8 @@
     }
   ],
   "route": {
-    "key": "2c89ed13",
-    "length": 2843,
+    "key": "2fee92d4",
+    "length": 2747,
     "points": [
       [
         -17.734838,
@@ -1236,13 +1255,13 @@
         0
       ],
       [
-        -17.734548,
-        168.336947,
+        -17.734822,
+        168.337064,
         0
       ],
       [
-        -17.734513,
-        168.337036,
+        -17.734928,
+        168.33733,
         0
       ],
       [
@@ -1281,8 +1300,8 @@
         0
       ],
       [
-        -17.736186,
-        168.33978,
+        -17.735963,
+        168.339921,
         0
       ],
       [
@@ -1373,8 +1392,8 @@
     ]
   },
   "reverseRoute": {
-    "key": "844d34bd",
-    "length": 2843,
+    "key": "c4346b98",
+    "length": 2747,
     "points": [
       [
         -17.73343,
@@ -1462,8 +1481,8 @@
         0
       ],
       [
-        -17.736186,
-        168.33978,
+        -17.735963,
+        168.339921,
         0
       ],
       [
@@ -1502,13 +1521,13 @@
         0
       ],
       [
-        -17.734513,
-        168.337036,
+        -17.734928,
+        168.33733,
         0
       ],
       [
-        -17.734548,
-        168.336947,
+        -17.734822,
+        168.337064,
         0
       ],
       [
