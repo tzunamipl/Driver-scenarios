@@ -8,14 +8,14 @@
     "createdBy": "Kanalizer",
     "createdAt": "2026-11-18T08:15:03.300Z",
     "editedBy": "dev_mode",
-    "editedAt": "2026-11-18T08:22:05.425Z",
+    "editedAt": "2026-11-18T09:53:15.804Z",
     "version": "0.9.25"
   },
   "points": [
     {
       "type": "timeControl",
-      "lat": 50.681113,
-      "lon": 16.605083,
+      "lat": 50.681402,
+      "lon": 16.604088,
       "width": 3
     },
     {
@@ -26,6 +26,7 @@
     },
     {
       "type": "passageControl",
+      "id": "pc",
       "lat": 50.681814,
       "lon": 16.602751,
       "width": 10,
@@ -33,6 +34,7 @@
     },
     {
       "type": "passageControl",
+      "id": "pc-2",
       "lat": 50.681931,
       "lon": 16.603226,
       "width": 10,
@@ -41,6 +43,7 @@
     },
     {
       "type": "passageControl",
+      "id": "pc-3",
       "lat": 50.682515,
       "lon": 16.602199,
       "width": 10,
@@ -48,6 +51,7 @@
     },
     {
       "type": "passageControl",
+      "id": "pc-4",
       "lat": 50.683104,
       "lon": 16.601631,
       "width": 10,
@@ -56,23 +60,17 @@
     },
     {
       "type": "passageControl",
+      "id": "pc-5",
       "lat": 50.682844,
       "lon": 16.601825,
       "width": 10,
       "straight": true
     },
     {
-      "type": "passageControl",
-      "lat": 50.682515,
-      "lon": 16.602199,
-      "width": 10
+      "point": "pc-3"
     },
     {
-      "type": "passageControl",
-      "lat": 50.681921,
-      "lon": 16.603241,
-      "width": 10,
-      "heading": 179,
+      "point": "pc-2",
       "straight": true
     },
     {
@@ -84,39 +82,23 @@
       "straight": true
     },
     {
-      "type": "passageControl",
-      "lat": 50.681813,
-      "lon": 16.602753,
-      "width": 10,
-      "heading": 9
+      "point": "pc"
     },
     {
-      "type": "passageControl",
-      "lat": 50.681932,
-      "lon": 16.603223,
-      "width": 10,
-      "heading": 0,
-      "straight": true
+      "point": "pc-2",
+      "straight": true,
+      "noSurface": true
     },
     {
-      "type": "passageControl",
-      "lat": 50.682515,
-      "lon": 16.602199,
-      "width": 10,
-      "straight": true
+      "point": "pc-3",
+      "straight": true,
+      "noSurface": true
     },
     {
-      "type": "passageControl",
-      "lat": 50.683103,
-      "lon": 16.601631,
-      "width": 10,
-      "heading": 243
+      "point": "pc-4"
     },
     {
-      "type": "passageControl",
-      "lat": 50.68284,
-      "lon": 16.601828,
-      "width": 10
+      "point": "pc-5"
     },
     {
       "type": "passageControl",
@@ -134,8 +116,8 @@
     },
     {
       "type": "stop",
-      "lat": 50.681173,
-      "lon": 16.604886,
+      "lat": 50.681482,
+      "lon": 16.603776,
       "width": 3
     }
   ],
@@ -392,7 +374,7 @@
     }
   ],
   "route": {
-    "key": "0c477bbb",
+    "key": "3c946bc4",
     "length": 893,
     "points": [
       [
@@ -436,8 +418,8 @@
         0
       ],
       [
-        50.681921,
-        16.603241,
+        50.681931,
+        16.603226,
         0
       ],
       [
@@ -456,8 +438,8 @@
         0
       ],
       [
-        50.681932,
-        16.603223,
+        50.681931,
+        16.603226,
         0
       ],
       [
@@ -483,8 +465,8 @@
     ]
   },
   "reverseRoute": {
-    "key": "340a680b",
-    "length": 891,
+    "key": "8f228efa",
+    "length": 892,
     "points": [
       [
         50.681674,
@@ -492,8 +474,8 @@
         0
       ],
       [
-        50.68284,
-        16.601828,
+        50.682844,
+        16.601825,
         0
       ],
       [
@@ -507,13 +489,13 @@
         0
       ],
       [
-        50.681932,
-        16.603223,
+        50.681931,
+        16.603226,
         0
       ],
       [
-        50.681813,
-        16.602753,
+        50.681814,
+        16.602751,
         0
       ],
       [
@@ -527,8 +509,8 @@
         0
       ],
       [
-        50.681921,
-        16.603241,
+        50.681931,
+        16.603226,
         0
       ],
       [
