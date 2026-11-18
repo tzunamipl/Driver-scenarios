@@ -8,7 +8,7 @@
     "createdBy": "Kanalizer",
     "createdAt": "2026-11-18T10:54:17.955Z",
     "editedBy": "Kanalizer",
-    "editedAt": "2026-11-18T16:51:29.878Z",
+    "editedAt": "2026-11-18T16:52:09.816Z",
     "version": "0.9.26",
     "build": "26.11.18-15.42"
   },
@@ -1437,6 +1437,120 @@
       "lon": 6.95243,
       "heading": 97.6,
       "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.338676,
+      "lon": 6.953663,
+      "heading": 10.8,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.338692,
+      "lon": 6.953429,
+      "heading": 358.9,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.338699,
+      "lon": 6.953219,
+      "heading": 3.6,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.338717,
+      "lon": 6.953031,
+      "heading": 25.7,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.338606,
+      "lon": 6.953603,
+      "heading": 34.7,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.33852,
+      "lon": 6.953526,
+      "heading": 22.3,
+      "length": 12
+    },
+    {
+      "type": "warningSign",
+      "lat": 50.338653,
+      "lon": 6.953643,
+      "heading": 210.1
+    },
+    {
+      "type": "warningSign",
+      "lat": 50.338634,
+      "lon": 6.953611,
+      "heading": 204.2
+    },
+    {
+      "type": "warningSign",
+      "lat": 50.338624,
+      "lon": 6.953645,
+      "heading": 204.2
+    },
+    {
+      "type": "warningSign",
+      "lat": 50.338578,
+      "lon": 6.953584,
+      "heading": 204.2
+    },
+    {
+      "type": "warningSign",
+      "lat": 50.338553,
+      "lon": 6.95353,
+      "heading": 204.2
+    },
+    {
+      "type": "warningSign",
+      "lat": 50.338537,
+      "lon": 6.953584,
+      "heading": 204.2
+    },
+    {
+      "type": "warningSign",
+      "lat": 50.338725,
+      "lon": 6.953733,
+      "heading": 215.1
+    },
+    {
+      "type": "warningSign",
+      "lat": 50.338717,
+      "lon": 6.953699,
+      "heading": 215.1
+    },
+    {
+      "type": "warningSign",
+      "lat": 50.338713,
+      "lon": 6.953648,
+      "heading": 210.1
+    },
+    {
+      "type": "warningSign",
+      "lat": 50.338714,
+      "lon": 6.953573,
+      "heading": 210.1
+    },
+    {
+      "type": "warningSign",
+      "lat": 50.338756,
+      "lon": 6.9538,
+      "heading": 215.1
+    },
+    {
+      "type": "warningSign",
+      "lat": 50.338784,
+      "lon": 6.953836,
+      "heading": 215.1
     }
   ],
   "route": {
