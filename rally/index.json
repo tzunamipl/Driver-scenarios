@@ -1,6 +1,11 @@
 {
   "format": 3,
   "stages": [
+    "czech-republic/kralovehradecky-kraj/destne-bedrichovka",
+    "czech-republic/kralovehradecky-kraj/javornice-rychnov",
+    "czech-republic/kralovehradecky-kraj/kovarna-debrece",
+    "czech-republic/kralovehradecky-kraj/petrovice-mladkov",
+    "czech-republic/kralovehradecky-kraj/zizelice",
     "finland/haijaa/kutala",
     "finland/haijaa/peramaa",
     "finland/haijaa/selkee",
@@ -53,8 +58,12 @@
     "lithuania/gravel-fest/sapiegiskiai",
     "lithuania/gravel-fest/valentai",
     "poland/rally-masters/dworek",
+    "poland/rally-masters/gaj",
+    "poland/rally-masters/klecza",
     "poland/rally-masters/niwnice",
     "poland/rally-masters/opolnica",
+    "poland/rally-masters/orlowiec",
+    "poland/rally-masters/strzyzowiec",
     "poland/rally-masters/wojborz",
     "poland/rsmp/bgk",
     "poland/rsmp/domaszkow",
@@ -81,6 +90,8 @@
     "test/test/glgow-turow",
     "test/test/test",
     "test/test/test-upload",
+    "thailand/thailand/phetchabun-a",
+    "thailand/thailand/phetchabun-b",
     "vanuatu/efate/dry-creek",
     "vanuatu/efate/eton-bechard",
     "vanuatu/efate/eton-quarry",
@@ -91,6 +102,8 @@
     "vanuatu/efate/t-usa"
   ],
   "rallies": [
+    "czech-republic/kralovehradecky-kraj/orlicky-1976",
+    "czech-republic/kralovehradecky-kraj/zizelice-2012",
     "finland/haijaa/enset-oy",
     "finland/haijaa/haijaa-pienoisralli",
     "finland/haijaa/sinervon",
@@ -106,6 +119,8 @@
     "lithuania/gravel-fest/2021-mini",
     "poland/rally-masters/bardo-2021",
     "poland/rally-masters/lwowek-slaski-2022",
+    "poland/rally-masters/wlen-2022",
+    "poland/rally-masters/zloto-2023",
     "poland/rsmp/dolnoslaski-2013",
     "poland/sobotka/2024",
     "poland/sobotka/2025",
@@ -114,6 +129,7 @@
     "poland/walim/zimowka-2022",
     "poland/walim/zimowka-2023",
     "test/piastowrally2026/2026",
+    "thailand/thailand/bueng-samphan-2019",
     "vanuatu/efate/vir-2024"
   ]
 }

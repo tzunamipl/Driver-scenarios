@@ -7,9 +7,10 @@
   "meta": {
     "createdBy": "dev_mode",
     "createdAt": "2026-11-05T14:15:21.727Z",
-    "editedBy": "dev_mode",
-    "editedAt": "2026-11-12T08:07:19.473Z",
-    "version": "0.8.29"
+    "editedBy": "Kanalizer",
+    "editedAt": "2026-11-19T15:17:50.377Z",
+    "version": "0.9.26",
+    "build": "26.11.19-15.15"
   },
   "startTime": "08:00",
   "base": {
@@ -26,8 +27,8 @@
     {
       "type": "refuel",
       "id": "fuel",
-      "lat": 50.512875,
-      "lon": 16.739309,
+      "lat": 50.512851,
+      "lon": 16.739134,
       "width": 4,
       "heading": 44.1,
       "snap": false,
@@ -40,8 +41,8 @@
     {
       "type": "tyreFitting",
       "id": "tyres",
-      "lat": 50.512996,
-      "lon": 16.739509,
+      "lat": 50.512874,
+      "lon": 16.739193,
       "width": 4,
       "heading": 46.9,
       "snap": false,
@@ -54,10 +55,10 @@
     {
       "type": "serviceParkOut",
       "id": "sp-out",
-      "lat": 50.513025,
-      "lon": 16.739652,
+      "lat": 50.512948,
+      "lon": 16.739402,
       "width": 4,
-      "heading": 103.7,
+      "heading": 43,
       "snap": false
     },
     {
@@ -65,13 +66,13 @@
       "reverse": true,
       "startTime": "08:45",
       "liaison": {
-        "key": "7fe51358",
-        "length": 4206,
-        "duration": 489,
+        "key": "5acd3b24",
+        "length": 4194,
+        "duration": 486,
         "points": [
           [
-            50.513008,
-            16.739769
+            50.512902,
+            16.739731
           ],
           [
             50.512419,
@@ -984,8 +985,8 @@
     {
       "type": "service",
       "id": "service",
-      "lat": 50.513124,
-      "lon": 16.739361,
+      "lat": 50.51307,
+      "lon": 16.739264,
       "width": 4,
       "heading": 229.1,
       "snap": false
@@ -1004,13 +1005,13 @@
       "reverse": true,
       "startTime": "10:43",
       "liaison": {
-        "key": "7fe51358",
-        "length": 4206,
-        "duration": 489,
+        "key": "5acd3b24",
+        "length": 4194,
+        "duration": 486,
         "points": [
           [
-            50.513008,
-            16.739769
+            50.512902,
+            16.739731
           ],
           [
             50.512419,
@@ -1933,13 +1934,13 @@
       "reverse": true,
       "startTime": "12:41",
       "liaison": {
-        "key": "7fe51358",
-        "length": 4206,
-        "duration": 489,
+        "key": "5acd3b24",
+        "length": 4194,
+        "duration": 486,
         "points": [
           [
-            50.513008,
-            16.739769
+            50.512902,
+            16.739731
           ],
           [
             50.512419,
@@ -2862,13 +2863,13 @@
       "reverse": true,
       "startTime": "14:51",
       "liaison": {
-        "key": "eaba4bc2",
-        "length": 14663,
-        "duration": 1093,
+        "key": "3f798cf6",
+        "length": 14651,
+        "duration": 1090,
         "points": [
           [
-            50.513008,
-            16.739769
+            50.512902,
+            16.739731
           ],
           [
             50.512419,
@@ -3776,6 +3777,69 @@
           ]
         ]
       }
+    }
+  ],
+  "areas": [
+    {
+      "surface": "cobblestone",
+      "a": [
+        50.513016,
+        16.739983
+      ],
+      "b": [
+        50.513256,
+        16.739139
+      ],
+      "heading": 283
+    },
+    {
+      "surface": "cobblestone",
+      "a": [
+        50.512721,
+        16.739046
+      ],
+      "b": [
+        50.513182,
+        16.739487
+      ],
+      "heading": 229
+    }
+  ],
+  "objects": [
+    {
+      "type": "tape",
+      "lat": 50.512714,
+      "lon": 16.739429,
+      "heading": 45.5,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.512643,
+      "lon": 16.739047,
+      "heading": 134.8,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.512883,
+      "lon": 16.738746,
+      "heading": 320.6,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.512843,
+      "lon": 16.739441,
+      "heading": 134.7,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.512925,
+      "lon": 16.739599,
+      "heading": 135.2,
+      "length": 12
     }
   ]
 }

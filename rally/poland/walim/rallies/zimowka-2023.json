@@ -7,9 +7,10 @@
   "meta": {
     "createdBy": "dev_mode",
     "createdAt": "2026-10-31T13:59:44.528Z",
-    "editedBy": "dev_mode",
-    "editedAt": "2026-11-01T09:42:47.444Z",
-    "version": "0.7.46"
+    "editedBy": "Kanalizer",
+    "editedAt": "2026-11-19T15:31:49.205Z",
+    "version": "0.9.26",
+    "build": "26.11.19-15.15"
   },
   "startTime": "17:00",
   "base": {
@@ -21,20 +22,16 @@
     {
       "type": "refuel",
       "id": "fuel",
-      "lat": 50.69667,
-      "lon": 16.441843,
-      "width": 4,
-      "heading": 245,
-      "snap": false
+      "lat": 50.697179,
+      "lon": 16.441985,
+      "width": 4
     },
     {
       "type": "tyreFitting",
       "id": "tyres",
-      "lat": 50.696896,
-      "lon": 16.441552,
-      "width": 4,
-      "heading": 343.5,
-      "snap": false
+      "lat": 50.697235,
+      "lon": 16.441664,
+      "width": 4
     },
     {
       "type": "serviceParkOut",
@@ -45,7 +42,7 @@
     },
     {
       "stage": "poland/walim/patelnie-up-01",
-      "startTime": "17:48",
+      "startTime": "17:38",
       "liaison": {
         "key": "5aa6acf5",
         "length": 1083,
@@ -108,7 +105,7 @@
     },
     {
       "stage": "poland/walim/patelnie-up-01",
-      "startTime": "18:18",
+      "startTime": "18:08",
       "liaison": {
         "via": [
           [
@@ -1173,19 +1170,28 @@
     {
       "type": "service",
       "id": "service",
-      "lat": 50.69674,
-      "lon": 16.44202,
+      "lat": 50.697249,
+      "lon": 16.441795,
       "width": 4,
-      "snap": false
+      "parking": {
+        "lat": 50.697162,
+        "lon": 16.442159,
+        "heading": 260.7
+      }
     },
     {
       "type": "parcFerme",
-      "lat": 50.696759,
-      "lon": 16.441607,
+      "lat": 50.697455,
+      "lon": 16.442606,
       "width": 10,
       "heading": 351,
       "snap": false,
-      "nextStart": "08:30"
+      "nextStart": "08:30",
+      "parking": {
+        "lat": 50.697314,
+        "lon": 16.442632,
+        "heading": 79.2
+      }
     },
     {
       "point": "tyres"
@@ -2847,7 +2853,7 @@
     },
     {
       "stage": "poland/walim/rosciszow",
-      "startTime": "11:31",
+      "startTime": "11:06",
       "liaison": {
         "key": "cb64f635",
         "length": 9814,
@@ -3482,7 +3488,7 @@
     },
     {
       "stage": "poland/walim/patelnie-up-01",
-      "startTime": "12:00",
+      "startTime": "11:35",
       "liaison": {
         "via": [
           [
@@ -4495,7 +4501,7 @@
     },
     {
       "stage": "poland/walim/rosciszow",
-      "startTime": "13:50",
+      "startTime": "13:00",
       "liaison": {
         "key": "cb64f635",
         "length": 9814,
@@ -5130,7 +5136,7 @@
     },
     {
       "stage": "poland/walim/patelnie-up-01",
-      "startTime": "14:19",
+      "startTime": "13:29",
       "liaison": {
         "via": [
           [
@@ -6131,9 +6137,14 @@
     },
     {
       "type": "podium",
-      "lat": 50.69726,
-      "lon": 16.441916,
-      "width": 10
+      "lat": 50.696446,
+      "lon": 16.443246,
+      "width": 10,
+      "parking": {
+        "lat": 50.696414,
+        "lon": 16.442961,
+        "heading": 319.3
+      }
     }
   ]
 }

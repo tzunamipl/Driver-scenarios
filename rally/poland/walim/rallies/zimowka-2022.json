@@ -7,9 +7,10 @@
   "meta": {
     "createdBy": "dev_mode",
     "createdAt": "2026-10-31T13:50:12.043Z",
-    "editedBy": "dev_mode",
-    "editedAt": "2026-11-01T09:40:09.774Z",
-    "version": "0.7.46"
+    "editedBy": "Kanalizer",
+    "editedAt": "2026-11-19T15:28:51.561Z",
+    "version": "0.9.26",
+    "build": "26.11.19-15.15"
   },
   "startTime": "08:45",
   "base": {
@@ -21,20 +22,16 @@
     {
       "type": "refuel",
       "id": "fuel",
-      "lat": 50.69667,
-      "lon": 16.441843,
-      "width": 4,
-      "heading": 245,
-      "snap": false
+      "lat": 50.697261,
+      "lon": 16.441923,
+      "width": 4
     },
     {
       "type": "tyreFitting",
       "id": "tyres",
-      "lat": 50.696896,
-      "lon": 16.441552,
-      "width": 4,
-      "heading": 343.5,
-      "snap": false
+      "lat": 50.697259,
+      "lon": 16.441825,
+      "width": 4
     },
     {
       "type": "serviceParkOut",
@@ -45,7 +42,7 @@
     },
     {
       "stage": "poland/walim/patelnie-up-01",
-      "startTime": "09:33",
+      "startTime": "09:23",
       "liaison": {
         "key": "5aa6acf5",
         "length": 1083,
@@ -108,7 +105,7 @@
     },
     {
       "stage": "poland/walim/rosciszow",
-      "startTime": "10:46",
+      "startTime": "10:36",
       "liaison": {
         "via": [
           [
@@ -2482,17 +2479,22 @@
     {
       "type": "service",
       "id": "service",
-      "lat": 50.69674,
-      "lon": 16.44202,
+      "lat": 50.697242,
+      "lon": 16.441682,
       "width": 4,
-      "snap": false
+      "snap": false,
+      "parking": {
+        "lat": 50.696721,
+        "lon": 16.442156,
+        "heading": 82.1
+      }
     },
     {
       "point": "sp-out"
     },
     {
       "stage": "poland/walim/patelnie-up-01",
-      "startTime": "12:21",
+      "startTime": "11:46",
       "liaison": {
         "key": "5aa6acf5",
         "length": 1083,
@@ -2555,7 +2557,7 @@
     },
     {
       "stage": "poland/walim/rosciszow",
-      "startTime": "13:34",
+      "startTime": "12:59",
       "liaison": {
         "via": [
           [
@@ -4930,7 +4932,7 @@
     },
     {
       "stage": "poland/walim/patelnie-up-01",
-      "startTime": "15:09",
+      "startTime": "14:09",
       "liaison": {
         "key": "5aa6acf5",
         "length": 1083,
@@ -4993,7 +4995,7 @@
     },
     {
       "stage": "poland/walim/rosciszow",
-      "startTime": "16:22",
+      "startTime": "15:22",
       "liaison": {
         "via": [
           [
@@ -7356,8 +7358,8 @@
     },
     {
       "type": "podium",
-      "lat": 50.69726,
-      "lon": 16.441916,
+      "lat": 50.69727,
+      "lon": 16.442667,
       "width": 10
     }
   ]
