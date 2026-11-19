@@ -5,48 +5,44 @@
   "id": "walim-2026",
   "name": "Walimski Rajd 2026",
   "meta": {
-    "editedBy": "dev_mode",
-    "editedAt": "2026-11-12T12:18:03.163Z",
-    "version": "0.8.29"
+    "editedBy": "Kanalizer",
+    "editedAt": "2026-11-19T15:26:25.316Z",
+    "version": "0.9.26",
+    "build": "26.11.19-15.15"
   },
   "base": {
     "name": "",
-    "lat": 50.697221,
-    "lon": 16.441578
+    "lat": 50.697282,
+    "lon": 16.441936
   },
   "itinerary": [
     {
-      "type": "service",
-      "lat": 50.69674,
-      "lon": 16.44202,
-      "width": 4,
-      "snap": false,
-      "parking": {
-        "lat": 50.696438,
-        "lon": 16.441731,
-        "heading": 59.2
-      }
-    },
-    {
       "type": "refuel",
-      "lat": 50.69667,
-      "lon": 16.441843,
+      "lat": 50.697245,
+      "lon": 16.441709,
       "width": 4,
-      "heading": 245,
-      "snap": false,
       "parking": {
-        "lat": 50.696707,
-        "lon": 16.441569,
+        "lat": 50.696723,
+        "lon": 16.442134,
         "heading": 83.6
       }
     },
     {
       "type": "tyreFitting",
-      "lat": 50.696896,
-      "lon": 16.441552,
+      "lat": 50.697237,
+      "lon": 16.441602,
+      "width": 4
+    },
+    {
+      "type": "service",
+      "lat": 50.697122,
+      "lon": 16.441499,
       "width": 4,
-      "heading": 343.5,
-      "snap": false
+      "parking": {
+        "lat": 50.697606,
+        "lon": 16.441165,
+        "heading": 80
+      }
     },
     {
       "type": "serviceParkOut",
@@ -281,20 +277,37 @@
     },
     {
       "type": "serviceParkIn",
-      "lat": 50.696898,
-      "lon": 16.44218,
-      "width": 4
+      "lat": 50.696889,
+      "lon": 16.442106,
+      "width": 4,
+      "heading": 258.3
     },
     {
       "type": "podium",
-      "lat": 50.69726,
-      "lon": 16.441916,
+      "lat": 50.697266,
+      "lon": 16.442668,
       "width": 10,
       "parking": {
-        "lat": 50.697091,
-        "lon": 16.441776,
-        "heading": 86.3
+        "lat": 50.697348,
+        "lon": 16.442837,
+        "heading": 75
       }
+    }
+  ],
+  "objects": [
+    {
+      "type": "tape",
+      "lat": 50.696986,
+      "lon": 16.442222,
+      "heading": 82,
+      "length": 12
+    },
+    {
+      "type": "tape",
+      "lat": 50.697181,
+      "lon": 16.441419,
+      "heading": 279.2,
+      "length": 12
     }
   ]
 }
