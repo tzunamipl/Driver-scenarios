@@ -1,10 +1,14 @@
 {
   "format": 3,
   "stages": [
+    "czech-republic/kralovehradecky-kraj/bernarticka",
     "czech-republic/kralovehradecky-kraj/destne-bedrichovka",
     "czech-republic/kralovehradecky-kraj/javornice-rychnov",
     "czech-republic/kralovehradecky-kraj/kovarna-debrece",
+    "czech-republic/kralovehradecky-kraj/kryblicka",
     "czech-republic/kralovehradecky-kraj/petrovice-mladkov",
+    "czech-republic/kralovehradecky-kraj/starobucka",
+    "czech-republic/kralovehradecky-kraj/zamecky-vrch",
     "czech-republic/kralovehradecky-kraj/zizelice",
     "finland/haijaa/kutala",
     "finland/haijaa/peramaa",
@@ -102,6 +106,7 @@
     "vanuatu/efate/t-usa"
   ],
   "rallies": [
+    "czech-republic/kralovehradecky-kraj/krknose-2012",
     "czech-republic/kralovehradecky-kraj/orlicky-1976",
     "czech-republic/kralovehradecky-kraj/zizelice-2012",
     "finland/haijaa/enset-oy",
