@@ -1,0 +1,36 @@
+name: Scenario index
+
+# The game's picker filters read rally/scenario-index.json (README: Summary index). Official content only: runs on main.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'rally/**'
+      - 'scripts/build-scenario-index.mjs'
+      - '!rally/scenario-index.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scenario-index
+  cancel-in-progress: false
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/build-scenario-index.mjs
+      - name: Commit when changed
+        run: |
+          git add rally/scenario-index.json
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update scenario index"
+          git push
