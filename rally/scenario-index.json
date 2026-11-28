@@ -1,0 +1,1776 @@
+{
+ "format": 1,
+ "stages": [
+  {
+   "key": "czech-republic/kralovehradecky-kraj/bernarticka",
+   "name": "Bernartická",
+   "km": 10.17,
+   "surface": "mixed"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/bernarticka",
+   "reverse": true,
+   "name": "Bernartická",
+   "km": 10.17,
+   "surface": "mixed"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/destne-bedrichovka",
+   "name": "Deštné v Orlické Horách – Bedřichovka",
+   "km": 9.16,
+   "surface": "tarmac"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/destne-bedrichovka",
+   "reverse": true,
+   "name": "Deštné v Orlické Horách – Bedřichovka",
+   "km": 9.16,
+   "surface": "tarmac"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/javornice-rychnov",
+   "name": "Javornice - Rychnov nad Kněžnou",
+   "km": 2.97,
+   "surface": "tarmac"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/javornice-rychnov",
+   "reverse": true,
+   "name": "Javornice - Rychnov nad Kněžnou",
+   "km": 2.97,
+   "surface": "tarmac"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/kovarna-debrece",
+   "name": "Chata Kovárna – Debřece",
+   "km": 12.28,
+   "surface": "tarmac"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/kovarna-debrece",
+   "reverse": true,
+   "name": "Chata Kovárna – Debřece",
+   "km": 12.28,
+   "surface": "tarmac"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/kryblicka",
+   "name": "Kryblická",
+   "km": 6.54,
+   "surface": "mixed"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/kryblicka",
+   "reverse": true,
+   "name": "Kryblická",
+   "km": 6.53,
+   "surface": "mixed"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/petrovice-mladkov",
+   "name": "České Petrovice - Mladkov",
+   "km": 4.84,
+   "surface": "tarmac"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/petrovice-mladkov",
+   "reverse": true,
+   "name": "České Petrovice - Mladkov",
+   "km": 4.85,
+   "surface": "tarmac"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/starobucka",
+   "name": "Starobucká",
+   "km": 9.89,
+   "surface": "mixed"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/starobucka",
+   "reverse": true,
+   "name": "Starobucká",
+   "km": 9.88,
+   "surface": "mixed"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/zamecky-vrch",
+   "name": "Zámecký Vrch",
+   "km": 7.53,
+   "surface": "mixed"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/zamecky-vrch",
+   "reverse": true,
+   "name": "Zámecký Vrch",
+   "km": 7.53,
+   "surface": "mixed"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/zizelice",
+   "name": "Žiželice",
+   "km": 2.59,
+   "surface": "gravel"
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/zizelice",
+   "reverse": true,
+   "name": "Žiželice",
+   "km": 2.59,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/haijaa/kutala",
+   "name": "Kutala",
+   "km": 4.73,
+   "surface": "mixed"
+  },
+  {
+   "key": "finland/haijaa/kutala",
+   "reverse": true,
+   "name": "Kutala",
+   "km": 4.73,
+   "surface": "mixed"
+  },
+  {
+   "key": "finland/haijaa/peramaa",
+   "name": "Peramaa",
+   "km": 6.39,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/haijaa/peramaa",
+   "reverse": true,
+   "name": "Peramaa",
+   "km": 6.39,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/haijaa/selkee",
+   "name": "Selke",
+   "km": 2.26,
+   "surface": "mixed"
+  },
+  {
+   "key": "finland/haijaa/selkee",
+   "reverse": true,
+   "name": "Selke",
+   "km": 2.26,
+   "surface": "mixed"
+  },
+  {
+   "key": "finland/wrc/hauhanphja",
+   "name": "Hauphanpohja",
+   "km": 11.03,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/hauhanphja",
+   "reverse": true,
+   "name": "Hauphanpohja",
+   "km": 11.03,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/hippos",
+   "name": "Hippos",
+   "km": 1.24,
+   "surface": "tarmac"
+  },
+  {
+   "key": "finland/wrc/hippos",
+   "reverse": true,
+   "name": "Hippos",
+   "km": 1.24,
+   "surface": "tarmac"
+  },
+  {
+   "key": "finland/wrc/juupajoki",
+   "name": "Juupajoki",
+   "km": 30.21,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/juupajoki",
+   "reverse": true,
+   "name": "Juupajoki",
+   "km": 30.23,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/lankamaa",
+   "name": "Lankamaa",
+   "km": 23.63,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/lankamaa",
+   "reverse": true,
+   "name": "Lankamaa",
+   "km": 23.61,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/laukaa",
+   "name": "Lakukaa",
+   "km": 12.25,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/laukaa",
+   "reverse": true,
+   "name": "Lakukaa",
+   "km": 12.26,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/lempaa",
+   "name": "Lempaa",
+   "km": 28.39,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/lempaa",
+   "reverse": true,
+   "name": "Lempaa",
+   "km": 28.45,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/leustu",
+   "name": "Leustu",
+   "km": 23.38,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/leustu",
+   "reverse": true,
+   "name": "Leustu",
+   "km": 23.41,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/mokkipera",
+   "name": "Mokkipera",
+   "km": 13.35,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/mokkipera",
+   "reverse": true,
+   "name": "Mokkipera",
+   "km": 13.34,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/ouninpohja",
+   "name": "Ouninpohja",
+   "km": 29.68,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/ouninpohja",
+   "reverse": true,
+   "name": "Ouninpohja",
+   "km": 29.66,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/parkkola",
+   "name": "Parkkola",
+   "km": 11.07,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/parkkola",
+   "reverse": true,
+   "name": "Parkkola",
+   "km": 11.08,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/ruuhimaki",
+   "name": "Ruuhimaki",
+   "km": 6.5,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/ruuhimaki",
+   "reverse": true,
+   "name": "Ruuhimaki",
+   "km": 6.5,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/sahalahti",
+   "name": "Sahalahti",
+   "km": 20.27,
+   "surface": "mixed"
+  },
+  {
+   "key": "finland/wrc/sahalahti",
+   "reverse": true,
+   "name": "Sahalahti",
+   "km": 20.28,
+   "surface": "mixed"
+  },
+  {
+   "key": "finland/wrc/siitama",
+   "name": "Siitama",
+   "km": 14.44,
+   "surface": "mixed"
+  },
+  {
+   "key": "finland/wrc/siitama",
+   "reverse": true,
+   "name": "Siitama",
+   "km": 14.43,
+   "surface": "mixed"
+  },
+  {
+   "key": "finland/wrc/tammimaki",
+   "name": "Tammimaki",
+   "km": 9.18,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/tammimaki",
+   "reverse": true,
+   "name": "Tammimaki",
+   "km": 9.18,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/tillimaa",
+   "name": "Tillimaa",
+   "km": 10.11,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/tillimaa",
+   "reverse": true,
+   "name": "Tillimaa",
+   "km": 10.11,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/vaheri",
+   "name": "Vaheri",
+   "km": 30.99,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/vaheri",
+   "reverse": true,
+   "name": "Vaheri",
+   "km": 30.96,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/valkola",
+   "name": "Valkola",
+   "km": 8.36,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/valkola",
+   "reverse": true,
+   "name": "Valkola",
+   "km": 8.36,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/vastila",
+   "name": "Vastila",
+   "km": 12.29,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/wrc/vastila",
+   "reverse": true,
+   "name": "Vastila",
+   "km": 12.28,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/ylistaro/asema",
+   "name": "Asema",
+   "km": 4.3,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/ylistaro/asema",
+   "reverse": true,
+   "name": "Asema",
+   "km": 4.3,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/ylistaro/pakki-sprint",
+   "name": "Pakki",
+   "km": 9.65,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/ylistaro/pakki-sprint",
+   "reverse": true,
+   "name": "Pakki",
+   "km": 9.65,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/ylistaro/viitala-2015",
+   "name": "Viitala",
+   "km": 5.37,
+   "surface": "gravel"
+  },
+  {
+   "key": "finland/ylistaro/viitala-2015",
+   "reverse": true,
+   "name": "Viitala",
+   "km": 5.37,
+   "surface": "gravel"
+  },
+  {
+   "key": "france/monts-dome/03-membrun",
+   "name": "03 Chaize Basse - Membrun",
+   "km": 14.36,
+   "surface": "tarmac"
+  },
+  {
+   "key": "france/monts-dome/03-membrun",
+   "reverse": true,
+   "name": "03 Chaize Basse - Membrun",
+   "km": 14.36,
+   "surface": "tarmac"
+  },
+  {
+   "key": "france/monts-dome/montimiot",
+   "name": "02 Chassonerie - Montmiot",
+   "km": 10.32,
+   "surface": "tarmac"
+  },
+  {
+   "key": "france/monts-dome/montimiot",
+   "reverse": true,
+   "name": "02 Chassonerie - Montmiot",
+   "km": 10.32,
+   "surface": "tarmac"
+  },
+  {
+   "key": "france/monts-dome/olmet",
+   "name": "01 Champs Elysees - Olmet",
+   "km": 14.78,
+   "surface": "tarmac"
+  },
+  {
+   "key": "france/monts-dome/olmet",
+   "reverse": true,
+   "name": "01 Champs Elysees - Olmet",
+   "km": 14.78,
+   "surface": "tarmac"
+  },
+  {
+   "key": "germany/rheinland-pfalz/nurburgring",
+   "name": "Nürburgring",
+   "km": 20.52,
+   "surface": "tarmac"
+  },
+  {
+   "key": "greece/crete/koleni",
+   "name": "Koleni - Κολενη",
+   "km": 7.64,
+   "surface": "tarmac"
+  },
+  {
+   "key": "greece/crete/koleni",
+   "reverse": true,
+   "name": "Koleni - Κολενη",
+   "km": 7.64,
+   "surface": "tarmac"
+  },
+  {
+   "key": "greece/crete/malaxa",
+   "name": "Malaxa - Μαλαξα",
+   "km": 8.87,
+   "surface": "tarmac"
+  },
+  {
+   "key": "greece/crete/malaxa",
+   "reverse": true,
+   "name": "Malaxa - Μαλαξα",
+   "km": 8.87,
+   "surface": "tarmac"
+  },
+  {
+   "key": "greece/crete/vantes",
+   "name": "Vantes - Βαντες",
+   "km": 9.13,
+   "surface": "tarmac"
+  },
+  {
+   "key": "greece/crete/vantes",
+   "reverse": true,
+   "name": "Vantes - Βαντες",
+   "km": 9.13,
+   "surface": "tarmac"
+  },
+  {
+   "key": "greece/wrc/aghii-theodoroi",
+   "name": "Aghii Theodoroi",
+   "km": 31.58,
+   "surface": "gravel"
+  },
+  {
+   "key": "greece/wrc/aghii-theodoroi",
+   "reverse": true,
+   "name": "Aghii Theodoroi",
+   "km": 31.56,
+   "surface": "gravel"
+  },
+  {
+   "key": "greece/wrc/gravia",
+   "name": "Gravia",
+   "km": 24.55,
+   "surface": "gravel"
+  },
+  {
+   "key": "greece/wrc/gravia",
+   "reverse": true,
+   "name": "Gravia",
+   "km": 24.57,
+   "surface": "gravel"
+  },
+  {
+   "key": "greece/wrc/kidi",
+   "name": "Kidi",
+   "km": 7.2,
+   "surface": "gravel"
+  },
+  {
+   "key": "greece/wrc/kidi",
+   "reverse": true,
+   "name": "Kidi",
+   "km": 7.2,
+   "surface": "gravel"
+  },
+  {
+   "key": "greece/wrc/kineta",
+   "name": "Kineta",
+   "km": 10.01,
+   "surface": "mixed"
+  },
+  {
+   "key": "greece/wrc/kineta",
+   "reverse": true,
+   "name": "Kineta",
+   "km": 10.01,
+   "surface": "mixed"
+  },
+  {
+   "key": "greece/wrc/mendenitsa",
+   "name": "Mendenitsa",
+   "km": 28.15,
+   "surface": "gravel"
+  },
+  {
+   "key": "greece/wrc/mendenitsa",
+   "reverse": true,
+   "name": "Mendenitsa",
+   "km": 28.16,
+   "surface": "gravel"
+  },
+  {
+   "key": "greece/wrc/paleohori",
+   "name": "Paleohori",
+   "km": 10.56,
+   "surface": "gravel"
+  },
+  {
+   "key": "greece/wrc/paleohori",
+   "reverse": true,
+   "name": "Paleohori",
+   "km": 10.56,
+   "surface": "gravel"
+  },
+  {
+   "key": "greece/wrc/skourta",
+   "name": "Skourta",
+   "km": 18.95,
+   "surface": "mixed"
+  },
+  {
+   "key": "greece/wrc/skourta",
+   "reverse": true,
+   "name": "Skourta",
+   "km": 18.93,
+   "surface": "mixed"
+  },
+  {
+   "key": "greece/wrc/thiva",
+   "name": "Thiva",
+   "km": 19.11,
+   "surface": "mixed"
+  },
+  {
+   "key": "greece/wrc/thiva",
+   "reverse": true,
+   "name": "Thiva",
+   "km": 19.11,
+   "surface": "mixed"
+  },
+  {
+   "key": "greece/wrc/zeli",
+   "name": "Zeli",
+   "km": 28.66,
+   "surface": "gravel"
+  },
+  {
+   "key": "greece/wrc/zeli",
+   "reverse": true,
+   "name": "Zeli",
+   "km": 28.65,
+   "surface": "gravel"
+  },
+  {
+   "key": "italy/f1/imola",
+   "name": "Imola",
+   "km": 4.37,
+   "surface": "tarmac"
+  },
+  {
+   "key": "italy/f1/monza",
+   "name": "Monza",
+   "km": 5.39,
+   "surface": "tarmac"
+  },
+  {
+   "key": "italy/wrc/apricale",
+   "name": "Arricale",
+   "km": 16.26,
+   "surface": "tarmac"
+  },
+  {
+   "key": "italy/wrc/apricale",
+   "reverse": true,
+   "name": "Arricale",
+   "km": 16.27,
+   "surface": "tarmac"
+  },
+  {
+   "key": "italy/wrc/colledoggia",
+   "name": "Colle d'Oggia",
+   "km": 14.88,
+   "surface": "tarmac"
+  },
+  {
+   "key": "italy/wrc/colledoggia",
+   "reverse": true,
+   "name": "Colle d'Oggia",
+   "km": 14.88,
+   "surface": "tarmac"
+  },
+  {
+   "key": "italy/wrc/monte-ceppo",
+   "name": "Monte Ceppo",
+   "km": 37.38,
+   "surface": "tarmac"
+  },
+  {
+   "key": "italy/wrc/monte-ceppo",
+   "reverse": true,
+   "name": "Monte Ceppo",
+   "km": 37.37,
+   "surface": "tarmac"
+  },
+  {
+   "key": "italy/wrc/pantasina",
+   "name": "Pantasina",
+   "km": 15.18,
+   "surface": "tarmac"
+  },
+  {
+   "key": "italy/wrc/pantasina",
+   "reverse": true,
+   "name": "Pantasina",
+   "km": 15.18,
+   "surface": "tarmac"
+  },
+  {
+   "key": "italy/wrc/perinaldo",
+   "name": "Perinaldo",
+   "km": 19.47,
+   "surface": "tarmac"
+  },
+  {
+   "key": "italy/wrc/perinaldo",
+   "reverse": true,
+   "name": "Perinaldo",
+   "km": 19.48,
+   "surface": "tarmac"
+  },
+  {
+   "key": "italy/wrc/rezzo",
+   "name": "Rezzo",
+   "km": 24.76,
+   "surface": "tarmac"
+  },
+  {
+   "key": "italy/wrc/rezzo",
+   "reverse": true,
+   "name": "Rezzo",
+   "km": 24.77,
+   "surface": "tarmac"
+  },
+  {
+   "key": "japan/chubu/eigenji-temple",
+   "name": "Eigenji Temple - 永源寺",
+   "km": 2.2,
+   "surface": "tarmac"
+  },
+  {
+   "key": "japan/chubu/eigenji-temple",
+   "reverse": true,
+   "name": "Eigenji Temple - 永源寺",
+   "km": 2.2,
+   "surface": "tarmac"
+  },
+  {
+   "key": "japan/chubu/isigure-w-long",
+   "name": "Isigure Peak West Long - 石榑峠西",
+   "km": 9.73,
+   "surface": "tarmac"
+  },
+  {
+   "key": "japan/chubu/isigure-w-long",
+   "reverse": true,
+   "name": "Isigure Peak West Long - 石榑峠西",
+   "km": 9.73,
+   "surface": "mixed"
+  },
+  {
+   "key": "kenya/wrc/kajiado",
+   "name": "Kajiado",
+   "km": 48.31,
+   "surface": "gravel"
+  },
+  {
+   "key": "kenya/wrc/kajiado",
+   "reverse": true,
+   "name": "Kajiado",
+   "km": 48.32,
+   "surface": "gravel"
+  },
+  {
+   "key": "kenya/wrc/marigat",
+   "name": "Marigat",
+   "km": 122.19,
+   "surface": "mixed"
+  },
+  {
+   "key": "kenya/wrc/marigat",
+   "reverse": true,
+   "name": "Marigat",
+   "km": 122.19,
+   "surface": "mixed"
+  },
+  {
+   "key": "kenya/wrc/marigat2",
+   "name": "Marigat2",
+   "km": 68.06,
+   "surface": "mixed"
+  },
+  {
+   "key": "kenya/wrc/marigat2",
+   "reverse": true,
+   "name": "Marigat2",
+   "km": 68.06,
+   "surface": "mixed"
+  },
+  {
+   "key": "kenya/wrc/morendat",
+   "name": "Morendat",
+   "km": 88.7,
+   "surface": "mixed"
+  },
+  {
+   "key": "kenya/wrc/morendat",
+   "reverse": true,
+   "name": "Morendat",
+   "km": 88.7,
+   "surface": "mixed"
+  },
+  {
+   "key": "kenya/wrc/nyaru",
+   "name": "Nyaru",
+   "km": 71.29,
+   "surface": "mixed"
+  },
+  {
+   "key": "kenya/wrc/nyaru",
+   "reverse": true,
+   "name": "Nyaru",
+   "km": 71.29,
+   "surface": "mixed"
+  },
+  {
+   "key": "kenya/wrc/olorian",
+   "name": "Olorian",
+   "km": 70.25,
+   "surface": "gravel"
+  },
+  {
+   "key": "kenya/wrc/olorian",
+   "reverse": true,
+   "name": "Olorian",
+   "km": 70.25,
+   "surface": "gravel"
+  },
+  {
+   "key": "kenya/wrc/orien",
+   "name": "Orien",
+   "km": 112.16,
+   "surface": "mixed"
+  },
+  {
+   "key": "kenya/wrc/orien",
+   "reverse": true,
+   "name": "Orien",
+   "km": 112.17,
+   "surface": "mixed"
+  },
+  {
+   "key": "kenya/wrc/ottepesi",
+   "name": "Ottepesi",
+   "km": 115.71,
+   "surface": "gravel"
+  },
+  {
+   "key": "kenya/wrc/ottepesi",
+   "reverse": true,
+   "name": "Ottepesi",
+   "km": 115.71,
+   "surface": "mixed"
+  },
+  {
+   "key": "lithuania/gravel-fest/akmeniai",
+   "name": "Akmeniai",
+   "km": 6.01,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/akmeniai",
+   "reverse": true,
+   "name": "Akmeniai",
+   "km": 6.01,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/aradninkai",
+   "name": "Aradninkai",
+   "km": 2.28,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/aradninkai",
+   "reverse": true,
+   "name": "Aradninkai",
+   "km": 2.28,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/bieleai",
+   "name": "Bielenai",
+   "km": 2.74,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/bieleai",
+   "reverse": true,
+   "name": "Bielenai",
+   "km": 2.74,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/briniai",
+   "name": "Briniai",
+   "km": 6.66,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/briniai",
+   "reverse": true,
+   "name": "Briniai",
+   "km": 6.66,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/giraite",
+   "name": "Giraite",
+   "km": 7.53,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/giraite",
+   "reverse": true,
+   "name": "Giraite",
+   "km": 7.53,
+   "surface": "mixed"
+  },
+  {
+   "key": "lithuania/gravel-fest/gumbeliai-mini",
+   "name": "Gumbeliai-mini",
+   "km": 3.02,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/gumbeliai-mini",
+   "reverse": true,
+   "name": "Gumbeliai-mini",
+   "km": 3.02,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/klepociai-mini",
+   "name": "Klepociai-mini",
+   "km": 2.42,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/klepociai-mini",
+   "reverse": true,
+   "name": "Klepociai-mini",
+   "km": 2.42,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/mariukonys",
+   "name": "Marciukonys",
+   "km": 5.97,
+   "surface": "mixed"
+  },
+  {
+   "key": "lithuania/gravel-fest/mariukonys",
+   "reverse": true,
+   "name": "Marciukonys",
+   "km": 5.97,
+   "surface": "mixed"
+  },
+  {
+   "key": "lithuania/gravel-fest/pazapsiai-mini",
+   "name": "Pazapsiai-mini",
+   "km": 2.47,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/pazapsiai-mini",
+   "reverse": true,
+   "name": "Pazapsiai-mini",
+   "km": 2.47,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/sapiegiskiai",
+   "name": "Sapiegiskiai",
+   "km": 3.01,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/sapiegiskiai",
+   "reverse": true,
+   "name": "Sapiegiskiai",
+   "km": 3.01,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/valentai",
+   "name": "Valentai",
+   "km": 3.83,
+   "surface": "gravel"
+  },
+  {
+   "key": "lithuania/gravel-fest/valentai",
+   "reverse": true,
+   "name": "Valentai",
+   "km": 3.83,
+   "surface": "gravel"
+  },
+  {
+   "key": "poland/rally-masters/dworek",
+   "name": "Dworek",
+   "km": 5.87,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/dworek",
+   "reverse": true,
+   "name": "Dworek",
+   "km": 5.86,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/gaj",
+   "name": "Gaj",
+   "km": 4.62,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/gaj",
+   "reverse": true,
+   "name": "Gaj",
+   "km": 4.62,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/klecza",
+   "name": "Klecza",
+   "km": 7.84,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/klecza",
+   "reverse": true,
+   "name": "Klecza",
+   "km": 7.84,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/niwnice",
+   "name": "Niwnice",
+   "km": 9.56,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/niwnice",
+   "reverse": true,
+   "name": "Niwnice",
+   "km": 9.56,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/opolnica",
+   "name": "Opolnica",
+   "km": 5.29,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/opolnica",
+   "reverse": true,
+   "name": "Opolnica",
+   "km": 5.29,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/orlowiec",
+   "name": "Orłowiec",
+   "km": 9.4,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/orlowiec",
+   "reverse": true,
+   "name": "Orłowiec",
+   "km": 9.4,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/strzyzowiec",
+   "name": "Strzyżowiec",
+   "km": 8.67,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/strzyzowiec",
+   "reverse": true,
+   "name": "Strzyżowiec",
+   "km": 8.68,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/wojborz",
+   "name": "Wojborz",
+   "km": 6.88,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rally-masters/wojborz",
+   "reverse": true,
+   "name": "Wojborz",
+   "km": 6.87,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rsmp/bgk",
+   "name": "BGK",
+   "km": 14.94,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rsmp/bgk",
+   "reverse": true,
+   "name": "BGK",
+   "km": 14.94,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rsmp/domaszkow",
+   "name": "Domaszkow",
+   "km": 23.67,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rsmp/domaszkow",
+   "reverse": true,
+   "name": "Domaszkow",
+   "km": 23.69,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rsmp/klodzko-2013",
+   "name": "Klodzko 2013",
+   "km": 2.35,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rsmp/klodzko-2013",
+   "reverse": true,
+   "name": "Klodzko 2013",
+   "km": 2.35,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rsmp/radkowska-perla",
+   "name": "Radkowska Perla",
+   "km": 8.75,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rsmp/radkowska-perla",
+   "reverse": true,
+   "name": "Radkowska Perla",
+   "km": 8.74,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rsmp/staropolanka",
+   "name": "Staropolanka",
+   "km": 14.75,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rsmp/staropolanka",
+   "reverse": true,
+   "name": "Staropolanka",
+   "km": 14.76,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rsmp/wilkanow",
+   "name": "Wilkanow",
+   "km": 17.82,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/rsmp/wilkanow",
+   "reverse": true,
+   "name": "Wilkanow",
+   "km": 17.81,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/sobotka/smialowice",
+   "name": "Smialowice",
+   "km": 7.97,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/sobotka/smialowice",
+   "reverse": true,
+   "name": "Smialowice",
+   "km": 7.97,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/sobotka/sobotkass",
+   "name": "Sobotka",
+   "km": 1.91,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/sobotka/sobotkass",
+   "reverse": true,
+   "name": "Sobotka",
+   "km": 1.91,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/sobotka/super-stage",
+   "name": "Super Stage",
+   "km": 1.73,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/sobotka/super-stage",
+   "reverse": true,
+   "name": "Super Stage",
+   "km": 1.73,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/sobotka/szczepanow",
+   "name": "Szczepanow",
+   "km": 10.8,
+   "surface": "mixed"
+  },
+  {
+   "key": "poland/sobotka/szczepanow",
+   "reverse": true,
+   "name": "Szczepanow",
+   "km": 10.8,
+   "surface": "mixed"
+  },
+  {
+   "key": "poland/sobotka/wirki",
+   "name": "Wirki",
+   "km": 8,
+   "surface": "mixed"
+  },
+  {
+   "key": "poland/sobotka/wirki",
+   "reverse": true,
+   "name": "Wirki",
+   "km": 8,
+   "surface": "mixed"
+  },
+  {
+   "key": "poland/sobotka/wiry",
+   "name": "Wiry",
+   "km": 6.79,
+   "surface": "mixed"
+  },
+  {
+   "key": "poland/sobotka/wiry",
+   "reverse": true,
+   "name": "Wiry",
+   "km": 6.79,
+   "surface": "mixed"
+  },
+  {
+   "key": "poland/walim/b-liliowa",
+   "name": "Bielawa Liliowa",
+   "km": 1.19,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/walim/b-liliowa",
+   "reverse": true,
+   "name": "Bielawa Liliowa",
+   "km": 1.18,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/walim/b-strazacka",
+   "name": "Bielawa Strazacka",
+   "km": 0.89,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/walim/b-strazacka",
+   "reverse": true,
+   "name": "Bielawa Strazacka",
+   "km": 0.89,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/walim/b-tartak",
+   "name": "Bielawa Tartak",
+   "km": 0.52,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/walim/b-tartak",
+   "reverse": true,
+   "name": "Bielawa Tartak",
+   "km": 0.52,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/walim/modlecin-down-02",
+   "name": "02 Modlecin",
+   "km": 2.85,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/walim/modlecin-down-02",
+   "reverse": true,
+   "name": "02 Modlecin",
+   "km": 2.85,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/walim/patelnie-up-01",
+   "name": "Walim - Przelecz Walimska",
+   "km": 3.24,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/walim/patelnie-up-01",
+   "reverse": true,
+   "name": "Walim - Przelecz Walimska",
+   "km": 3.24,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/walim/rosciszow",
+   "name": "Rosciszow",
+   "km": 3.54,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/walim/rosciszow",
+   "reverse": true,
+   "name": "Rosciszow",
+   "km": 3.54,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/walim/wiejska-down-03",
+   "name": "03 Wiejska - Walim",
+   "km": 2.66,
+   "surface": "tarmac"
+  },
+  {
+   "key": "poland/walim/wiejska-down-03",
+   "reverse": true,
+   "name": "03 Wiejska - Walim",
+   "km": 2.66,
+   "surface": "tarmac"
+  },
+  {
+   "key": "test/piastowrally2026/kolodzieja-01",
+   "name": "Kolodzieja",
+   "km": 1.16,
+   "surface": null
+  },
+  {
+   "key": "test/piastowrally2026/kolodzieja-01",
+   "reverse": true,
+   "name": "Kolodzieja",
+   "km": 1.3,
+   "surface": null
+  },
+  {
+   "key": "test/piastowrally2026/motocross",
+   "name": "Motocross",
+   "km": 2.05,
+   "surface": "gravel"
+  },
+  {
+   "key": "test/piastowrally2026/sprawiedliwego-01",
+   "name": "Sprawiedliwego",
+   "km": 0.82,
+   "surface": null
+  },
+  {
+   "key": "test/piastowrally2026/sprawiedliwego-01",
+   "reverse": true,
+   "name": "Sprawiedliwego",
+   "km": 1.02,
+   "surface": null
+  },
+  {
+   "key": "test/test/glgow-turow",
+   "name": "Glogow - Turow",
+   "km": 3.65,
+   "surface": "tarmac"
+  },
+  {
+   "key": "test/test/glgow-turow",
+   "reverse": true,
+   "name": "Glogow - Turow",
+   "km": 3.65,
+   "surface": "tarmac"
+  },
+  {
+   "key": "test/test/test",
+   "name": "test",
+   "km": 0.7,
+   "surface": null
+  },
+  {
+   "key": "test/test/test",
+   "reverse": true,
+   "name": "test",
+   "km": 0.7,
+   "surface": null
+  },
+  {
+   "key": "test/test/test-upload",
+   "name": "test-upload",
+   "km": 0.09,
+   "surface": null
+  },
+  {
+   "key": "test/test/test-upload",
+   "reverse": true,
+   "name": "test-upload",
+   "km": 0.09,
+   "surface": null
+  },
+  {
+   "key": "thailand/thailand/phetchabun-a",
+   "name": "Phetchabun Garden Hill A",
+   "km": 10.5,
+   "surface": "gravel"
+  },
+  {
+   "key": "thailand/thailand/phetchabun-a",
+   "reverse": true,
+   "name": "Phetchabun Garden Hill A",
+   "km": 10.5,
+   "surface": "gravel"
+  },
+  {
+   "key": "thailand/thailand/phetchabun-b",
+   "name": "Phetchabun Garden Hill B",
+   "km": 15.29,
+   "surface": "gravel"
+  },
+  {
+   "key": "thailand/thailand/phetchabun-b",
+   "reverse": true,
+   "name": "Phetchabun Garden Hill B",
+   "km": 15.29,
+   "surface": "gravel"
+  },
+  {
+   "key": "vanuatu/efate/dry-creek",
+   "name": "Dry Creek",
+   "km": 11.43,
+   "surface": "gravel"
+  },
+  {
+   "key": "vanuatu/efate/dry-creek",
+   "reverse": true,
+   "name": "Dry Creek",
+   "km": 11.43,
+   "surface": "mixed"
+  },
+  {
+   "key": "vanuatu/efate/eton-bechard",
+   "name": "Eton Bechard",
+   "km": 4.35,
+   "surface": "gravel"
+  },
+  {
+   "key": "vanuatu/efate/eton-bechard",
+   "reverse": true,
+   "name": "Eton Bechard",
+   "km": 4.35,
+   "surface": "mixed"
+  },
+  {
+   "key": "vanuatu/efate/eton-quarry",
+   "name": "Eton Quarry",
+   "km": 5.69,
+   "surface": "gravel"
+  },
+  {
+   "key": "vanuatu/efate/eton-quarry",
+   "reverse": true,
+   "name": "Eton Quarry",
+   "km": 5.69,
+   "surface": "mixed"
+  },
+  {
+   "key": "vanuatu/efate/korman",
+   "name": "Korman",
+   "km": 2.75,
+   "surface": "tarmac"
+  },
+  {
+   "key": "vanuatu/efate/korman",
+   "reverse": true,
+   "name": "Korman",
+   "km": 2.75,
+   "surface": "tarmac"
+  },
+  {
+   "key": "vanuatu/efate/plantatino-russet",
+   "name": "Plantatino Russet",
+   "km": 4.34,
+   "surface": "mixed"
+  },
+  {
+   "key": "vanuatu/efate/plantatino-russet",
+   "reverse": true,
+   "name": "Plantatino Russet",
+   "km": 4.34,
+   "surface": "mixed"
+  },
+  {
+   "key": "vanuatu/efate/t-airstrip",
+   "name": "Takara Air Strip",
+   "km": 4.38,
+   "surface": "gravel"
+  },
+  {
+   "key": "vanuatu/efate/t-airstrip",
+   "reverse": true,
+   "name": "Takara Air Strip",
+   "km": 4.38,
+   "surface": "gravel"
+  },
+  {
+   "key": "vanuatu/efate/t-airstrip-x2",
+   "name": "Takara Air Strip Twice",
+   "km": 8.79,
+   "surface": "gravel"
+  },
+  {
+   "key": "vanuatu/efate/t-airstrip-x2",
+   "reverse": true,
+   "name": "Takara Air Strip Twice",
+   "km": 8.79,
+   "surface": "gravel"
+  },
+  {
+   "key": "vanuatu/efate/t-usa",
+   "name": "Takara USA",
+   "km": 3.55,
+   "surface": "gravel"
+  },
+  {
+   "key": "vanuatu/efate/t-usa",
+   "reverse": true,
+   "name": "Takara USA",
+   "km": 3.55,
+   "surface": "gravel"
+  }
+ ],
+ "rallies": [
+  {
+   "key": "czech-republic/kralovehradecky-kraj/krknose-2012",
+   "name": "Rally Krkonoše 2012",
+   "stageKm": 68.23,
+   "surface": "mixed",
+   "days": 1
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/orlicky-1976",
+   "name": "Štít Orlických Hor 1976",
+   "stageKm": 29.25,
+   "surface": "tarmac",
+   "days": 1
+  },
+  {
+   "key": "czech-republic/kralovehradecky-kraj/zizelice-2012",
+   "name": "Testovací RZ Žiželice 2012",
+   "stageKm": 7.77,
+   "surface": "gravel",
+   "days": 1
+  },
+  {
+   "key": "finland/haijaa/enset-oy",
+   "name": "Enset Oy Rallisprint",
+   "stageKm": 9.46,
+   "surface": "mixed",
+   "days": 1
+  },
+  {
+   "key": "finland/haijaa/haijaa-pienoisralli",
+   "name": "Haijaa Pienoisralii",
+   "stageKm": 19.17,
+   "surface": "gravel",
+   "days": 1
+  },
+  {
+   "key": "finland/haijaa/sinervon",
+   "name": "Sinervon Kauppa Rallisprint",
+   "stageKm": 4.51,
+   "surface": "mixed",
+   "days": 1
+  },
+  {
+   "key": "finland/wrc/finland-1999",
+   "name": "Rally Finland 1999",
+   "stageKm": 367.41,
+   "surface": "gravel",
+   "days": 2
+  },
+  {
+   "key": "finland/ylistaro/laihian",
+   "name": "Laihian UA Harjoituskipailu",
+   "stageKm": 9.65,
+   "surface": "gravel",
+   "days": 1
+  },
+  {
+   "key": "finland/ylistaro/ylistaro-sprint-2015",
+   "name": "Ylistaro Sprint 2015",
+   "stageKm": 10.73,
+   "surface": "gravel",
+   "days": 1
+  },
+  {
+   "key": "finland/ylistaro/ylistaro-sprint-2022",
+   "name": "Ylistaro Sprint 2022",
+   "stageKm": 12.89,
+   "surface": "gravel",
+   "days": 1
+  },
+  {
+   "key": "france/monts-dome/2026",
+   "name": "RAllye National des Monts Dome 2026",
+   "stageKm": 118.4,
+   "surface": "tarmac",
+   "days": 2
+  },
+  {
+   "key": "greece/crete/chanion-2026",
+   "name": "Rally Chanion 2026",
+   "stageKm": 51.28,
+   "surface": "tarmac",
+   "days": 2
+  },
+  {
+   "key": "italy/wrc/2000",
+   "name": "Rallye Sanremo 2000",
+   "stageKm": 377.64,
+   "surface": "tarmac",
+   "days": 2
+  },
+  {
+   "key": "japan/chubu/inabe-2026",
+   "name": "Inabe Higashioumi Rally 2026",
+   "stageKm": 23.84,
+   "surface": "tarmac",
+   "days": 1
+  },
+  {
+   "key": "kenya/wrc/safari-2000",
+   "name": "Safari Rally 2000",
+   "stageKm": 1043.09,
+   "surface": "mixed",
+   "days": 2
+  },
+  {
+   "key": "lithuania/gravel-fest/2020",
+   "name": "2020",
+   "stageKm": 18.24,
+   "surface": "gravel",
+   "days": 1
+  },
+  {
+   "key": "lithuania/gravel-fest/2021",
+   "name": "2021",
+   "stageKm": 52.33,
+   "surface": "gravel",
+   "days": 1
+  },
+  {
+   "key": "lithuania/gravel-fest/2021-mini",
+   "name": "2021 Mini",
+   "stageKm": 21.29,
+   "surface": "gravel",
+   "days": 1
+  },
+  {
+   "key": "poland/rally-masters/bardo-2021",
+   "name": "Bardo 2021",
+   "stageKm": 48.66,
+   "surface": "tarmac",
+   "days": 1
+  },
+  {
+   "key": "poland/rally-masters/lwowek-slaski-2022",
+   "name": "Lwówek Śląski 2022",
+   "stageKm": 46.27,
+   "surface": "tarmac",
+   "days": 1
+  },
+  {
+   "key": "poland/rally-masters/wlen-2022",
+   "name": "Wleń 2022",
+   "stageKm": 49.54,
+   "surface": "tarmac",
+   "days": 1
+  },
+  {
+   "key": "poland/rally-masters/zloto-2023",
+   "name": "Złoto dla Zuchwałych 2023",
+   "stageKm": 42.05,
+   "surface": "tarmac",
+   "days": 1
+  },
+  {
+   "key": "poland/rsmp/dolnoslaski-2013",
+   "name": "Rajd Dolnaslaski 2013",
+   "stageKm": 179.29,
+   "surface": "tarmac",
+   "days": 2
+  },
+  {
+   "key": "poland/sobotka/2024",
+   "name": "Rally Sobotka 2024",
+   "stageKm": 54.5,
+   "surface": "mixed",
+   "days": 1
+  },
+  {
+   "key": "poland/sobotka/2025",
+   "name": "Rally Sobotka 2025",
+   "stageKm": 49.82,
+   "surface": "mixed",
+   "days": 2
+  },
+  {
+   "key": "poland/walim/kjs-bielawa-1",
+   "name": "1 KJS Bielawa",
+   "stageKm": 7.78,
+   "surface": "tarmac",
+   "days": 1
+  },
+  {
+   "key": "poland/walim/walim-2026",
+   "name": "Walimski Rajd 2026",
+   "stageKm": 8.75,
+   "surface": "tarmac",
+   "days": 1
+  },
+  {
+   "key": "poland/walim/zimowka-2022",
+   "name": "Walimska Zimowka 2022",
+   "stageKm": 20.34,
+   "surface": "tarmac",
+   "days": 1
+  },
+  {
+   "key": "poland/walim/zimowka-2023",
+   "name": "Walimska Zimowka 2023",
+   "stageKm": 26.83,
+   "surface": "tarmac",
+   "days": 2
+  },
+  {
+   "key": "test/piastowrally2026/2026",
+   "name": "Piastow Rally 2026",
+   "stageKm": 1.98,
+   "surface": null,
+   "days": 1
+  },
+  {
+   "key": "thailand/thailand/bueng-samphan-2019",
+   "name": "Bueng Samphan 2019",
+   "stageKm": 103.15,
+   "surface": "gravel",
+   "days": 1
+  },
+  {
+   "key": "vanuatu/efate/vir-2024",
+   "name": "Vanuatu International Rally 2024",
+   "stageKm": 145.18,
+   "surface": "mixed",
+   "days": 3
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 # Driver scenarios
 
-Scenario data for [Driver](https://github.com/tzunamipl/Driver) game modes. Data only, no code.
+Scenario data for [Driver](https://github.com/tzunamipl/Driver) game modes. Data, plus one script that builds the summary index.
 
 - **Official** scenarios: `main` of this repo.
 - **Custom** scenarios: any fork or branch. In the game, enter the source as `owner/repo@branch`
@@ -22,6 +22,29 @@ To make custom scenarios official, open a pull request from your branch to `main
 - Points: `lat`, `lon` (WGS84 degrees) and `width` (metres). A gate is placed across the nearest road,
   centred on it, so it has no direction. Points are driven in the order listed.
 - Each mode folder has an `index.json` listing its files by id; the editor keeps it up to date.
+- Each mode folder also has a `scenario-index.json` (summary index): never edit it by hand, see below.
+
+## Summary index
+
+The picker's filters (length, surface, days) read `<mode>/scenario-index.json` instead of opening every file.
+`scripts/build-scenario-index.mjs` writes it (`node scripts/build-scenario-index.mjs`, no dependencies) and the
+`Scenario index` workflow runs it on every push to `main` that touches `rally/`, committing the result when it changed.
+Branches and forks get no index, so their picker lists are not filtered.
+
+```
+rally/scenario-index.json
+{ "format": 1,
+  "stages":  [{ "key": "country/region/id", "reverse": true?, "name", "km", "surface" }],
+  "rallies": [{ "key", "name", "stageKm", "surface", "days" }] }
+```
+
+- `km` / `stageKm`: road length from the pacenotes (else the saved `route`, else the points' straight line x 1.3);
+  a rally sums its stage entries, repeats and `reverse` ones included. The game turns `stageKm` into the difficulty bars.
+- Every stage without `noReverse` has a second entry with `"reverse": true`.
+- `surface`: `tarmac`, `gravel`, `mixed` or `snow` (snow & ice), `null` for a stage without a saved route. Measured
+  along the saved route (OSM paved / unpaved, `surfaces` sections over it; cobbles count as tarmac, mud as gravel):
+  snow / ice from 50 %, else tarmac or gravel from 90 %, else mixed. A rally weighs its stages by length.
+- `days`: one plus each `parcFerme` that is not the last itinerary entry.
 
 ## Rally (`rally/`)
 
